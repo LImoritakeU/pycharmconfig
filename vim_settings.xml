@@ -166,7 +166,6 @@
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/errors.py" timestamp="1506671077636">
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.2/system/python_stubs/-361272631/__builtin__.py" timestamp="1506737406225" />
     </filemarks>
     <jumps>
       <jump line="176" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
@@ -311,7 +310,7 @@
         <text encoding="base64">PGZvb3RlciBjbGFzcz0iZm9vdGVyIiA+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -337,11 +336,11 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>Q</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
