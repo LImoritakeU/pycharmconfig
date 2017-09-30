@@ -22,6 +22,11 @@
         <mark key="^" line="93" column="48" />
         <mark key="." line="93" column="48" />
       </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/filter.pipe.ts" timestamp="1506790383434">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.css" timestamp="1506765274116">
         <mark key="'" line="0" column="0" />
       </file>
@@ -76,11 +81,11 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.html" timestamp="1506766420612">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.html" timestamp="1506791015276">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="12" column="57" />
+        <mark key="." line="12" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1506671462514">
         <mark key="[" line="0" column="0" />
@@ -127,24 +132,24 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.ts" timestamp="1506762718711">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.ts" timestamp="1506791149710">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+        <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" timestamp="1506765491350">
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" timestamp="1506791465733">
         <mark key="'" line="30" column="12" />
-        <mark key="[" line="32" column="52" />
-        <mark key="]" line="32" column="50" />
-        <mark key="^" line="32" column="50" />
-        <mark key="." line="32" column="50" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="55" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506759293140">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506791386835">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="26" column="32" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -162,9 +167,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/errors.py" timestamp="1506671077636">
-        <mark key="^" line="25" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -271,46 +273,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>[ngClass]=&quot;{'selected': filterType === 'All'}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Km5nSWY9InRvZG9zLmxlbmd0aCA+IDAiIA==</text>
+        <text>class=&quot;selected&quot;</text>
       </register>
       <register name="/" type="4">
         <text>footer</text>
       </register>
       <register name="0" type="4">
-        <text>-</text>
+        <text>[ngClass]=&quot;{'selected': filterType === 'All'}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8YXBwLWZvb3RlciAqbmdJZj0idG9kb3MubGVuZ3RoPjAiIFt0b2Rvc109InRvZG9zIj48L2FwcC1mb290ZXI+Cg==</text>
+        <text encoding="base64">Y2hhbmdlRmlsdGVyVHlwZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbCBmb3I9InRvZ2dsZS1hbGwiPk1hcmsgYWxsIGFzIGNvbXBsZXRlPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbCBmb3I9InRvZ2dsZS1hbGwiPk1hcmsgYWxsIGFzIGNvbXBsZXRlPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8YXBwLWZvb3RlciAqbmdJZj0idG9kb3MubGVuZ3RoPjAiIFt0b2Rvc109InRvZG9zIj48L2FwcC1mb290ZXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsYWJlbCBmb3I9InRvZ2dsZS1hbGwiPk1hcmsgYWxsIGFzIGNvbXBsZXRlPC9sYWJlbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b2RvczogYW55W10K</text>
+        <text encoding="base64">ICAgIDxsYWJlbCBmb3I9InRvZ2dsZS1hbGwiPk1hcmsgYWxsIGFzIGNvbXBsZXRlPC9sYWJlbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGZvb3RlciBjbGFzcz0iZm9vdGVyIiA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -336,11 +338,15 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry>33</entry>
+        <entry>W</entry>
+        <entry>24</entry>
+        <entry>7</entry>
+        <entry>21</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
