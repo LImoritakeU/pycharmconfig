@@ -102,6 +102,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/package.json" timestamp="1506875387549">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="31" />
@@ -120,6 +126,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/proxy.config.json" timestamp="1506875320359">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/__init__.py" timestamp="1506677269744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -132,24 +144,26 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.ts" timestamp="1506791149710">
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.ts" timestamp="1506873482102">
+        <mark key="'" line="30" column="43" />
         <mark key="[" line="30" column="43" />
         <mark key="]" line="30" column="43" />
         <mark key="." line="30" column="43" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" timestamp="1506791465733">
-        <mark key="'" line="30" column="12" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="55" />
-        <mark key="^" line="20" column="55" />
-        <mark key="." line="20" column="55" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" timestamp="1506874696338">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506872823045">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506875576268">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -170,10 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="136" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="92" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
@@ -270,10 +280,14 @@
       <jump line="23" column="32" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" />
       <jump line="30" column="12" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.css" />
+      <jump line="30" column="43" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[ngClass]=&quot;{'selected': filterType === 'All'}&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>class=&quot;selected&quot;</text>
@@ -285,31 +299,31 @@
         <text>[ngClass]=&quot;{'selected': filterType === 'All'}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2hhbmdlRmlsdGVyVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGlucHV0IGNsYXNzPSJlZGl0IiB2YWx1ZT0iQ3JlYXRlIGEgVG9kb01WQyB0ZW1wbGF0ZSI+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPC9kaXY+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08YnV0dG9uIGNsYXNzPSJkZXN0cm95Ij48L2J1dHRvbj4tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8YXBwLWZvb3RlciAqbmdJZj0idG9kb3MubGVuZ3RoPjAiIFt0b2Rvc109InRvZG9zIj48L2FwcC1mb290ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08bGFiZWw+VGFzdGUgSmF2YVNjcmlwdDwvbGFiZWw+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbCBmb3I9InRvZ2dsZS1hbGwiPk1hcmsgYWxsIGFzIGNvbXBsZXRlPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08aW5wdXQgY2xhc3M9InRvZ2dsZSIgdHlwZT0iY2hlY2tib3giIGNoZWNrZWQ+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbCBmb3I9InRvZ2dsZS1hbGwiPk1hcmsgYWxsIGFzIGNvbXBsZXRlPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRpdiBjbGFzcz0idmlldyI+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAgICAgPCEtLTxsaSBjbGFzcz0iY29tcGxldGVkIj4tLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hhbmdlRmlsdGVyVHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -338,14 +352,16 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>wq</entry>
         <entry>Q</entry>
-        <entry>q</entry>
         <entry>33</entry>
         <entry>W</entry>
         <entry>24</entry>
         <entry>7</entry>
         <entry>21</entry>
+        <entry>29</entry>
+        <entry>q</entry>
+        <entry>2</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
