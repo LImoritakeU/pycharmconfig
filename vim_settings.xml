@@ -158,12 +158,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506877322756">
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506878342513">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="34" />
-        <mark key="^" line="52" column="34" />
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -287,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>class=&quot;selected&quot;</text>
@@ -299,31 +299,31 @@
         <text>[ngClass]=&quot;{'selected': filterType === 'All'}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaHR0cC5nZXQoJy4vbWUnLCB0aGlzLnJlcXVlc3RPcHRpb25zKS5tYXAocmVzPT4gewogICAgICByZXR1cm4gcmVzLmpzb24oKTsKICAgIH0pLmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZjxhbnlbXT4oW10pOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudG9kbyA9ICcnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9ybSAncnhqcyc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaHR0cC5nZXQoJy4vbWUnLCB0aGlzLnJlcXVlc3RPcHRpb25zKS5tYXAocmVzPT4gewogICAgICByZXR1cm4gcmVzLmpzb24oKTsKICAgIH0pLmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZjxhbnlbXT4oW10pOwogICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gInJ4anMvT2JzZXJ2YWJsZSI7Cg==</text>
+        <text encoding="base64">Zm9ybSAncnhqcyc7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gInJ4anMvT2JzZXJ2YWJsZSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGlucHV0IGNsYXNzPSJlZGl0IiB2YWx1ZT0iQ3JlYXRlIGEgVG9kb01WQyB0ZW1wbGF0ZSI+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPC9kaXY+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
