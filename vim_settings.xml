@@ -158,12 +158,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506875576268">
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506877322756">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -287,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>class=&quot;selected&quot;</text>
@@ -299,31 +299,31 @@
         <text>[ngClass]=&quot;{'selected': filterType === 'All'}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGlucHV0IGNsYXNzPSJlZGl0IiB2YWx1ZT0iQ3JlYXRlIGEgVG9kb01WQyB0ZW1wbGF0ZSI+LS0+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaHR0cC5nZXQoJy4vbWUnLCB0aGlzLnJlcXVlc3RPcHRpb25zKS5tYXAocmVzPT4gewogICAgICByZXR1cm4gcmVzLmpzb24oKTsKICAgIH0pLmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZjxhbnlbXT4oW10pOwogICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPC9kaXY+LS0+Cg==</text>
+        <text encoding="base64">Zm9ybSAncnhqcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08YnV0dG9uIGNsYXNzPSJkZXN0cm95Ij48L2J1dHRvbj4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08bGFiZWw+VGFzdGUgSmF2YVNjcmlwdDwvbGFiZWw+LS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gInJ4anMvT2JzZXJ2YWJsZSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08aW5wdXQgY2xhc3M9InRvZ2dsZSIgdHlwZT0iY2hlY2tib3giIGNoZWNrZWQ+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRpdiBjbGFzcz0idmlldyI+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxsaSBjbGFzcz0iY29tcGxldGVkIj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGlucHV0IGNsYXNzPSJlZGl0IiB2YWx1ZT0iQ3JlYXRlIGEgVG9kb01WQyB0ZW1wbGF0ZSI+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2hhbmdlRmlsdGVyVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPC9kaXY+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,7 +354,6 @@
         <entry encoding="base64">JzwsJz48</entry>
         <entry>Q</entry>
         <entry>33</entry>
-        <entry>W</entry>
         <entry>24</entry>
         <entry>7</entry>
         <entry>21</entry>
@@ -362,6 +361,7 @@
         <entry>q</entry>
         <entry>2</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
