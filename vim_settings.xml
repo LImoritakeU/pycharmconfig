@@ -102,8 +102,8 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/package.json" timestamp="1506880212112">
-        <mark key="[" line="6" column="39" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/package.json" timestamp="1506908961996">
+        <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="56" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
@@ -158,12 +158,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506880090951">
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506909182985">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="20" />
-        <mark key="." line="42" column="20" />
-        <mark key="^" line="42" column="20" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -171,11 +171,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506758020330">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506909101136">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+        <mark key="." line="20" column="13" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/decorators.py" timestamp="1506677876414">
         <mark key="]" line="2" column="19" />
@@ -286,11 +286,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>import {ObjectUnsubscribedError} from &quot;rxjs/Rx&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;selected&quot;</text>
+        <text>import {ObjectUnsubscribedError} from &quot;rxjs/Rx&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>footer</text>
