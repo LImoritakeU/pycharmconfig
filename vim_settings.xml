@@ -15,10 +15,10 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" timestamp="1506745491928">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="40" />
-        <mark key="]" line="93" column="48" />
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" timestamp="1506925255267">
+        <mark key="'" line="227" column="29" />
+        <mark key="[" line="193" column="7" />
+        <mark key="]" line="193" column="7" />
         <mark key="^" line="93" column="48" />
         <mark key="." line="93" column="48" />
       </file>
@@ -192,12 +192,12 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506923604358">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="60" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506925525063">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="50" column="47" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="46" column="33" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/decorators.py" timestamp="1506677876414">
         <mark key="]" line="2" column="19" />
@@ -206,27 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="55" column="28" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
       <jump line="42" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/__init__.py" />
       <jump line="28" column="32" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/posts.py" />
       <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/posts.py" />
@@ -253,27 +232,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/authentication.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/authentication.py" />
       <jump line="43" column="20" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="181" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="211" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="220" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="224" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="312" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="306" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="297" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
@@ -281,12 +239,6 @@
       <jump line="290" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="286" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="267" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="263" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="251" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="228" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="213" column="8" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="39" column="24" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" />
@@ -300,43 +252,91 @@
       <jump line="16" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
-      <jump line="19" column="47" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="18" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="3" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="181" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="193" column="7" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="265" column="18" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="263" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="251" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="235" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="231" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="228" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="224" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="215" column="11" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="220" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="206" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="211" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
+      <jump line="227" column="29" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGRiLnNlc3Npb24ubm9fYXV0b2ZsdXNoOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
       </register>
       <register name="-" type="4">
         <text>eeeeeeeeeeee</text>
       </register>
       <register name="/" type="4">
-        <text>footer</text>
+        <text>generate_confirmation</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoJ3Rlc3RpbmcnKQogICAgICAgIHNlbGYuYXBwX2NvbnRleHQgPSBzZWxmLmFwcC5hcHBfY29udGV4dCgpCiAgICAgICAgc2VsZi5hcHBfY29udGV4dC5wdXNoKCkKICAgICAgICBkYi5jcmVhdGVfYWxsKCkKCiAgICBkZWYgdGVhckRvd24oc2VsZik6CiAgICAgICAgZGIuc2Vzc2lvbi5yZW1vdmUoKQogICAgICAgIGRiLmRyb3BfYWxsKCkKICAgICAgICBzZWxmLmFwcF9jb250ZXh0LnBvcCgpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGRiLnNlc3Npb24ubm9fYXV0b2ZsdXNoOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBSb2xlLmluc2VydF9yb2xlcygpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNvCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGRiLnNlc3Npb24ubm9fYXV0b2ZsdXNoOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -345,16 +345,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGNvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>footer</last-search>
+      <last-search>generate_confirmation</last-search>
       <last-offset />
-      <last-pattern>footer</last-pattern>
+      <last-pattern>generate_confirmation</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -363,6 +363,8 @@
         <entry>FLASKY</entry>
         <entry>url_for</entry>
         <entry>footer</entry>
+        <entry>generate_</entry>
+        <entry>generate_confirmation</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
@@ -371,7 +373,6 @@
         <entry>94</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
-        <entry>Q</entry>
         <entry>33</entry>
         <entry>24</entry>
         <entry>7</entry>
@@ -380,10 +381,11 @@
         <entry>wq</entry>
         <entry>49</entry>
         <entry>2</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>W</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
