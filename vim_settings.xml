@@ -42,6 +42,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/data.service.ts" timestamp="1506913242765">
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="69" />
+        <mark key="^" line="18" column="69" />
+        <mark key="." line="18" column="69" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_raw.html.j2" timestamp="1500434316188">
         <mark key="[" line="32" column="10" />
         <mark key="]" line="34" column="22" />
@@ -158,12 +164,10 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506909182985">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506913133470">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="24" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -171,11 +175,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506909101136">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506912606668">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/decorators.py" timestamp="1506677876414">
         <mark key="]" line="2" column="19" />
@@ -286,44 +290,44 @@
       <jump line="2" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>import {ObjectUnsubscribedError} from &quot;rxjs/Rx&quot;;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy50b2RvcyA9IGRhdGE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>import {ObjectUnsubscribedError} from &quot;rxjs/Rx&quot;;</text>
+        <text>eeeeeeeeeeee</text>
       </register>
       <register name="/" type="4">
         <text>footer</text>
       </register>
-      <register name="0" type="4">
-        <text>[ngClass]=&quot;{'selected': filterType === 'All'}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy50b2RvcyA9IGRhdGE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMudG9kbyA9ICcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaHR0cC5nZXQoJy4vbWUnLCB0aGlzLnJlcXVlc3RPcHRpb25zKS5tYXAocmVzPT4gewogICAgICByZXR1cm4gcmVzLmpzb24oKTsKICAgIH0pLmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZjxhbnlbXT4oW10pOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9ybSAncnhqcyc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICBnZXRUb2RvcyAoKSB7CiAgICByZXR1cm4gdGhpcy5odHRwLmdldCgnLi9tZS90b2RvbXZjJywgdGhpcy5yZXF1ZXN0T3B0aW9ucykubWFwKHJlcz0+IHsKICAgICAgcmV0dXJuIHJlcy5qc29uKCk7CiAgICB9KS5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgICAgcmV0dXJuIE9ic2VydmFibGUub2Y8YW55W10+KFtdKTsKICAgIH0pOwogIH0KCiAgc2F2ZVRvZG9zIChuZXdUb2RvczogYW55W10pIHsKICAgIHJldHVybiB0aGlzLmh0dHAucG9zdCgnLi9tZS90b2RvbXZjJywgbmV3VG9kb3MsIHRoaXMucmVxdWVzdE9wdGlvbnMpLm1hcChyZXMgPT4gewogICAgICB0aGlzLnRvZG9zID0gcmVzLmpzb24oKTsKICAgIH0pLmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZjxhbnlbXT4oW10pOwogICAgfSk7CiA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gInJ4anMvT2JzZXJ2YWJsZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudG9kbyA9ICcnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
