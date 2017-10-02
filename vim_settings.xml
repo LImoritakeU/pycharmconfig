@@ -187,6 +187,13 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506917728667">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="24" column="12" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/decorators.py" timestamp="1506677876414">
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
@@ -194,12 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="65" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="74" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="77" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
@@ -294,10 +295,16 @@
       <jump line="16" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" />
+      <jump line="19" column="47" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>eeeeeeeeeeee</text>
@@ -309,19 +316,19 @@
         <text encoding="base64">ICAgICAgdGhpcy50b2RvcyA9IGRhdGE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCg==</text>
+        <text encoding="base64">ZGVmIGNvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -353,7 +360,6 @@
         <entry>footer</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry>11</entry>
         <entry>/FLASKY</entry>
         <entry>15</entry>
@@ -367,11 +373,12 @@
         <entry>7</entry>
         <entry>21</entry>
         <entry>29</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>49</entry>
         <entry>2</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
