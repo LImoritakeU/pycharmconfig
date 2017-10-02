@@ -181,18 +181,23 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_basics.py" timestamp="1506923205128">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506912606668">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="24" column="24" />
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506917866351">
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506923604358">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="26" column="12" />
-        <mark key="^" line="23" column="9" />
-        <mark key="." line="26" column="12" />
+        <mark key="[" line="2" column="60" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/decorators.py" timestamp="1506677876414">
         <mark key="]" line="2" column="19" />
@@ -304,7 +309,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGRiLnNlc3Npb24ubm9fYXV0b2ZsdXNoOgo=</text>
       </register>
       <register name="-" type="4">
         <text>eeeeeeeeeeee</text>
@@ -313,25 +318,25 @@
         <text>footer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50b2RvcyA9IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoJ3Rlc3RpbmcnKQogICAgICAgIHNlbGYuYXBwX2NvbnRleHQgPSBzZWxmLmFwcC5hcHBfY29udGV4dCgpCiAgICAgICAgc2VsZi5hcHBfY29udGV4dC5wdXNoKCkKICAgICAgICBkYi5jcmVhdGVfYWxsKCkKCiAgICBkZWYgdGVhckRvd24oc2VsZik6CiAgICAgICAgZGIuc2Vzc2lvbi5yZW1vdmUoKQogICAgICAgIGRiLmRyb3BfYWxsKCkKICAgICAgICBzZWxmLmFwcF9jb250ZXh0LnBvcCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGRiLnNlc3Npb24ubm9fYXV0b2ZsdXNoOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGNvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCg==</text>
+        <text encoding="base64">ZGVmIGNvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -366,7 +371,6 @@
         <entry>94</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry>Q</entry>
         <entry>33</entry>
         <entry>24</entry>
@@ -374,11 +378,12 @@
         <entry>21</entry>
         <entry>29</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>49</entry>
         <entry>2</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">JzwsJz48</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
