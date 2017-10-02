@@ -36,11 +36,11 @@
         <mark key="^" line="20" column="58" />
         <mark key="." line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/cli.py" timestamp="1506915041215">
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-        <mark key="^" line="49" column="16" />
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/cli.py" timestamp="1506916056495">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="27" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/comments.py" timestamp="1506677515077">
         <mark key="[" line="0" column="0" />
@@ -297,7 +297,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGNvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>eeeeeeeeeeee</text>
@@ -309,16 +309,16 @@
         <text encoding="base64">ICAgICAgdGhpcy50b2RvcyA9IGRhdGE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGNvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGNvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,14 +329,14 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBnZXRUb2RvcyAoKSB7CiAgICByZXR1cm4gdGhpcy5odHRwLmdldCgnLi9tZS90b2RvbXZjJywgdGhpcy5yZXF1ZXN0T3B0aW9ucykubWFwKHJlcz0+IHsKICAgICAgcmV0dXJuIHJlcy5qc29uKCk7CiAgICB9KS5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgICAgcmV0dXJuIE9ic2VydmFibGUub2Y8YW55W10+KFtdKTsKICAgIH0pOwogIH0KCiAgc2F2ZVRvZG9zIChuZXdUb2RvczogYW55W10pIHsKICAgIHJldHVybiB0aGlzLmh0dHAucG9zdCgnLi9tZS90b2RvbXZjJywgbmV3VG9kb3MsIHRoaXMucmVxdWVzdE9wdGlvbnMpLm1hcChyZXMgPT4gewogICAgICB0aGlzLnRvZG9zID0gcmVzLmpzb24oKTsKICAgIH0pLmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZjxhbnlbXT4oW10pOwogICAgfSk7CiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>2</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -370,9 +370,9 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>49</entry>
         <entry>2</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
