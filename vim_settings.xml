@@ -187,12 +187,12 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506917728667">
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506917866351">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="21" column="9" />
-        <mark key="." line="24" column="12" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="23" column="9" />
+        <mark key="." line="26" column="12" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/decorators.py" timestamp="1506677876414">
         <mark key="]" line="2" column="19" />
