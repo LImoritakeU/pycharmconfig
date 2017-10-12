@@ -144,12 +144,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1507771639132">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="33" column="3" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1507773750937">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="36" column="74" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
@@ -251,21 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="2" column="10" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="97" column="11" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="43" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="46" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="53" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
@@ -351,6 +336,21 @@
       <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="35" column="31" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -430,8 +430,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
