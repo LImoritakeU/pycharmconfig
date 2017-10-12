@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
+        <mark key="[" line="23" column="100" />
+        <mark key="]" line="23" column="100" />
+        <mark key="^" line="15" column="57" />
+        <mark key="." line="23" column="101" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/views.py" timestamp="1500432312813">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="33" />
@@ -32,6 +38,13 @@
         <mark key="]" line="38" column="27" />
         <mark key="^" line="38" column="27" />
         <mark key="." line="38" column="27" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/_macros.html" timestamp="1507801235457">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/comments.py" timestamp="1506677515077">
         <mark key="[" line="0" column="0" />
@@ -266,8 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="44" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
@@ -366,19 +377,21 @@
       <jump line="15" column="17" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
       <jump line="40" column="16" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
       <jump line="16" column="7" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="4" column="41" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/_macros.html" />
+      <jump line="29" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/_macros.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class=&quot;form-control&quot;</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>ultricies eget</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>generate_confirmation</text>
       </register>
       <register name="0" type="4">
-        <text>class=&quot;form-control&quot;</text>
+        <text>}</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICA8bmF2IGNsYXNzPSJuYXZiYXIgbmF2YmFyLWxpZ2h0IGJnLWxpZ2h0Ij4KICA8Zm9ybSBjbGFzcz0iZm9ybS1pbmxpbmUiPgogICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wgbXItc20tMiIgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlNlYXJjaCI+CiAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLW91dGxpbmUtc3VjY2VzcyBteS0yIG15LXNtLTAiIHR5cGU9InN1Ym1pdCI+U2VhcmNoPC9idXR0b24+CiAgPC9mb3JtPgogIDwvbmF2Pg==</text>
