@@ -144,12 +144,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1507778314583">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="3" />
-        <mark key="." line="51" column="3" />
-        <mark key="^" line="51" column="3" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1507778993401">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
@@ -354,7 +354,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSByZWxhdGlvbnNoaXAoJ1NhbXBsZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>V</text>
@@ -366,31 +366,31 @@
         <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZCh1MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSByZWxhdGlvbnNoaXAoJ1NhbXBsZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHNxbGFsY2hlbXkuZXhjIGltcG9ydCBJbnRlZ3JpdHlFcnJvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAnc3FsaXRlOi8vLycgKyBvcy5wYXRoLmpvaW4oYmFzZWRpciwgJ2RhdGEtZGV2LnNxbGl0ZScpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfbGFiZWwoY2xzKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBvcy5lbnZpcm9uLmdldCgnREUK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGIucmVnaXN0ZXJfYmFzZShTYW1wbGUpCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSByZWxhdGlvbnNoaXAoJ1NhbXBsZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGIucmVnaXN0ZXJfYmFzZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
