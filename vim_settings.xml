@@ -229,12 +229,12 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507782852387">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507784819191">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506933024812">
         <mark key="'" line="91" column="0" />
@@ -412,7 +412,6 @@
         <entry>generate_confirmation</entry>
       </history-search>
       <history-cmd>
-        <entry>11</entry>
         <entry>/FLASKY</entry>
         <entry>15</entry>
         <entry>94</entry>
@@ -431,6 +430,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
