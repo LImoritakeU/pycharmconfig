@@ -229,11 +229,12 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507780365116">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507782852387">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506933024812">
         <mark key="'" line="91" column="0" />
@@ -250,8 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="261" column="21" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="263" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="267" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" />
       <jump line="94" column="7" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
@@ -350,6 +349,8 @@
       <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="44" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="10" column="60" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
