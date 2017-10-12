@@ -146,8 +146,8 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507796437958">
-        <mark key="'" line="43" column="16" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507798817568">
+        <mark key="'" line="16" column="7" />
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="13" />
@@ -266,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="29" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
@@ -366,6 +365,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" />
       <jump line="15" column="17" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
       <jump line="40" column="16" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="16" column="7" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
