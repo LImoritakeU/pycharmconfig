@@ -74,11 +74,11 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" timestamp="1507791242427">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" timestamp="1507795754253">
+        <mark key="[" line="45" column="6" />
+        <mark key="]" line="45" column="6" />
+        <mark key="^" line="46" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/title/title.component.ts" timestamp="1506754645054">
         <mark key="[" line="8" column="16" />
@@ -123,11 +123,10 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/build.html" timestamp="1507792436103">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/build.html" timestamp="1507793371419">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_quick_bootstrap.html.j2" timestamp="1500431994633">
         <mark key="[" line="0" column="22" />
@@ -147,11 +146,12 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507791605377">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507796437958">
+        <mark key="'" line="43" column="16" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/package.json" timestamp="1506908961996">
         <mark key="[" line="6" column="38" />
@@ -221,11 +221,11 @@
         <mark key="]" line="70" column="24" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1507791497094">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1507793188636">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="63" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -244,12 +244,12 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507791193404">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507793861073">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="14" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506933024812">
         <mark key="'" line="91" column="0" />
@@ -266,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="20" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="29" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
@@ -366,46 +364,48 @@
       <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="15" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="4" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" />
+      <jump line="15" column="17" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="40" column="16" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIGJ0bi1sZyBjb2wtbWQtMyIgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5ris6Kmm5qih5Z6LIj4K</text>
+      <register name="&quot;" type="4">
+        <text>class=&quot;form-control&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>ultricies eget</text>
       </register>
       <register name="/" type="4">
         <text>generate_confirmation</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIGJ0bi1sZyBjb2wtbWQtMyIgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5ris6Kmm5qih5Z6LIj4K</text>
+      <register name="0" type="4">
+        <text>class=&quot;form-control&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIGJ0bi1sZyBjb2wtbWQtMyIgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5ris6Kmm5qih5Z6LIj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICA8bmF2IGNsYXNzPSJuYXZiYXIgbmF2YmFyLWxpZ2h0IGJnLWxpZ2h0Ij4KICA8Zm9ybSBjbGFzcz0iZm9ybS1pbmxpbmUiPgogICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wgbXItc20tMiIgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlNlYXJjaCI+CiAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLW91dGxpbmUtc3VjY2VzcyBteS0yIG15LXNtLTAiIHR5cGU9InN1Ym1pdCI+U2VhcmNoPC9idXR0b24+CiAgPC9mb3JtPgogIDwvbmF2Pg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgZXh0ZW5kcyAnYmFzZS5odG1sJyAlfQo=</text>
+        <text encoding="base64">PC9uYXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyUgZXh0ZW5kcyAnYmFzZS5odG1sJyAlfQo=</text>
+        <text encoding="base64">ICAgICAgPHRkPkphY29iPC90ZD4KICAgICAgPHRkPlRob3JudG9uPC90ZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgZXh0ZW5kcyAnYmFzZS5odG1sJyAlfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPkJ1aWxkIE1vZGVsPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">eyUgYmxvY2sgc2NyaXB0cyAlfQogIHt7IHN1cGVyKCkgfX0KICA8c2NyaXB0IHNyYz0ie3sgdXJsX2Zvcignc3RhdGljJywgZmlsZW5hbWU9J2Jvd2VyX2NvbXBvbmVudHMvYm9vdHN0cmFwLXRhYmxlL2Rpc3QvYm9vdHN0cmFwLXRhYmxlLmpzJykgfX0iPjwvc2NyaXB0PgogIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiCiAgICAgICAgaHJlZj0ie3sgdXJsX2Zvcignc3RhdGljJywgZmlsZW5hbWU9J2Jvd2VyX2NvbXBvbmVudHMvYm9vdHN0cmFwLXRhYmxlL2Rpc3QvYm9vdHN0cmFwLXRhYmxlLmNzcycpIH19Ii8+CnslIGVuZGJsb2NrICV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGxpPjwvbGk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIGJ0bi1sZyBjb2wtbWQtMyIgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5ris6Kmm5qih5Z6LIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
