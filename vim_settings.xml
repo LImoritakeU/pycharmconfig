@@ -45,12 +45,9 @@
         <mark key="^" line="18" column="69" />
         <mark key="." line="18" column="69" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/static/styles/mystyle.css" timestamp="1507712760467">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/static/styles/mystyle.css" timestamp="1507791146197">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/cli.py" timestamp="1507718413097">
         <mark key="[" line="11" column="23" />
@@ -76,6 +73,12 @@
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" timestamp="1507791242427">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/title/title.component.ts" timestamp="1506754645054">
         <mark key="[" line="8" column="16" />
@@ -120,6 +123,12 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/build.html" timestamp="1507792436103">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_quick_bootstrap.html.j2" timestamp="1500431994633">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="24" />
@@ -132,11 +141,17 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507705744929">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507791397702">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507791605377">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/package.json" timestamp="1506908961996">
         <mark key="[" line="6" column="38" />
@@ -206,11 +221,11 @@
         <mark key="]" line="70" column="24" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1507780245085">
-        <mark key="[" line="5" column="87" />
-        <mark key="]" line="6" column="66" />
-        <mark key="." line="6" column="66" />
-        <mark key="^" line="6" column="66" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1507791497094">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -229,10 +244,10 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507788775257">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507791193404">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="18" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="14" />
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
@@ -251,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="15" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
       <jump line="20" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
@@ -351,46 +365,47 @@
       <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="15" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIGJ0bi1sZyBjb2wtbWQtMyIgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5ris6Kmm5qih5Z6LIj4K</text>
       </register>
       <register name="-" type="4">
-        <text>datePicker</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>generate_confirmation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZCh1MSkK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIGJ0bi1sZyBjb2wtbWQtMyIgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5ris6Kmm5qih5Z6LIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIGJ0bi1sZyBjb2wtbWQtMyIgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5ris6Kmm5qih5Z6LIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZsYXNrX3NxbGFsY2hlbXkK</text>
+        <text encoding="base64">eyUgZXh0ZW5kcyAnYmFzZS5odG1sJyAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JycnCg==</text>
+        <text encoding="base64">eyUgZXh0ZW5kcyAnYmFzZS5odG1sJyAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IHVzZSBvZiB0aGlzIHNvZnR3YXJlLiAK</text>
+        <text encoding="base64">eyUgZXh0ZW5kcyAnYmFzZS5odG1sJyAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTUlUX0xpY2Vuc2UuIFRoZSBhdXRob3IgYWNjZXB0cyBubyBsaWFiaWxpdHkgZm9yIGNvbnNlcXVlbmNlcyByZXN1bHRpbmcgZnJvbSB0aGUK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q3JlYXRlZCBieSBJc2FhYyBNYXJ0aW4gMjAxNy4gTGljZW5zZWQgaW5zb2ZhciBhcyBpdCBjYW4gYmUgYWNjb3JkaW5nIHRvIHRoZSBzdGFuZGFyZCB0ZXJtcyBvZiB0aGUgTUlUIGxpY2Vuc2U6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPkJ1aWxkIE1vZGVsPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JycnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsbG9ncyA9IHJlbGF0aW9uc2hpcCgnTW9kZWxMb2cnLCBiYWNrcmVmPSdzYW1wbGVzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -412,8 +427,6 @@
         <entry>generate_confirmation</entry>
       </history-search>
       <history-cmd>
-        <entry>/FLASKY</entry>
-        <entry>15</entry>
         <entry>94</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
@@ -429,8 +442,10 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
