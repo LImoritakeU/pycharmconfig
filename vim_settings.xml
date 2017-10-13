@@ -62,11 +62,11 @@
         <mark key="'" line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/cli.py" timestamp="1507718413097">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/cli.py" timestamp="1507864151917">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="82" />
+        <mark key="^" line="12" column="82" />
+        <mark key="." line="12" column="82" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" timestamp="1507788556213">
         <mark key="'" line="12" column="0" />
@@ -177,12 +177,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1507788057817">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="27" column="12" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1507864615398">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="58" column="36" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
@@ -292,12 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" />
-      <jump line="36" column="4" filename="$USER_HOME$/bluetech/web/label-classification/app/static/styles/mystyle.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/static/styles/mystyle.css" />
-      <jump line="9" column="8" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" />
-      <jump line="22" column="15" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" />
       <jump line="76" column="68" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="74" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="68" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
@@ -320,14 +313,12 @@
       <jump line="20" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="21" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="35" column="31" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="7" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="17" column="51" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
@@ -349,9 +340,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="18" column="48" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="44" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
@@ -392,13 +380,24 @@
       <jump line="4" column="15" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/model_test.html" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/model_test.html" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" />
+      <jump line="48" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="59" column="38" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{{ fragment  }}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>{{ fragment  }}</text>
@@ -410,28 +409,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxlZnRTaWRlYmFyID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnbGVmdC1zaWRlYmFyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfbGFiZWwoc2VsZiwgKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbGUuY2xhc3NMaXN0LmFkZCgnYWN0aXZlJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxlZnRTaWRlYmFyID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnbGVmdC1zaWRlYmFyJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0U2lkZWJhci5mb3JFYWNoKGVsZSA9PiB7ZWxlLmNsYXNzTGlzdC5yZW1vdmUoJ2FjdGl2ZScpfSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxlLmZpcnN0Q2hpbGQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWxlLmZpcnN0Q2hpbGQpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGUuY2xhc3NMaXN0LmFkZCgnYWN0aXZlJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoZWxlIG9mIGxlZnRTaWRlYmFyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0U2lkZWJhci5mb3JFYWNoKGVsZSA9PiB7ZWxlLmNsYXNzTGlzdC5yZW1vdmUoJ2FjdGl2ZScpfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
