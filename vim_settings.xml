@@ -158,11 +158,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507877640818">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="52" />
-        <mark key="." line="12" column="52" />
-        <mark key="^" line="12" column="52" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507880582752">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507877471661">
         <mark key="'" line="18" column="0" />
@@ -269,12 +269,12 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507877694535">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507880800868">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="68" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="20" />
+        <mark key="[" line="25" column="62" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="36" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506933024812">
         <mark key="'" line="91" column="0" />
