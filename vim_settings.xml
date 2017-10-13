@@ -246,12 +246,12 @@
         <mark key="]" line="70" column="24" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1507805258987">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1507860954748">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="20" column="68" />
-        <mark key="." line="20" column="68" />
-        <mark key="^" line="20" column="68" />
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+        <mark key="^" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
