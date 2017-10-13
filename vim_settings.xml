@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1507882675597">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
         <mark key="]" line="23" column="100" />
@@ -21,11 +24,6 @@
         <mark key="]" line="261" column="21" />
         <mark key="^" line="261" column="21" />
         <mark key="." line="261" column="21" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/filter.pipe.ts" timestamp="1506790383434">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/main/errors.py" timestamp="1506603842287">
         <mark key="[" line="21" column="34" />
@@ -119,11 +117,6 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/config.py" timestamp="1506675167059">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/authentication.py" timestamp="1506749428535">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="48" />
@@ -158,11 +151,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507880582752">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507882712826">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="3" column="71" />
+        <mark key="." line="3" column="71" />
+        <mark key="^" line="3" column="71" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507877471661">
         <mark key="'" line="18" column="0" />
@@ -240,11 +233,6 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.ts" timestamp="1506913133470">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="24" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1507863539391">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="30" />
@@ -258,23 +246,18 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_basics.py" timestamp="1506923205128">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="30" />
-      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506912606668">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="24" column="24" />
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507880800868">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507881788954">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="62" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="36" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="59" />
+        <mark key="^" line="6" column="59" />
+        <mark key="." line="6" column="59" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/tests/test_user_model.py" timestamp="1506933024812">
         <mark key="'" line="91" column="0" />
@@ -394,7 +377,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ic2Vjb25kIj5zZWNvbmQ8L29wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ3RleHQnKSwKICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ2RhdGUnKSwKICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJycpCiAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -406,31 +389,31 @@
         <text encoding="base64">IGNsYXNzPSJsZWZ0LXNpZGViYXIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ic2Vjb25kIj5zZWNvbmQ8L29wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ3RleHQnKSwKICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ2RhdGUnKSwKICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJycpCiAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iZmlyc3QiPmZpcnN0PC9vcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oCiAgICAgICAgICAgICdkYXRhID0gezB9LCBkYXRlID0gezF9LCBsYWJlbF9pZCA9IHsyfScuZm9ybWF0KAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMgICAgPC90cj4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyMgICAgICA8dGQ+MjAxNy8wNy8yNDwvdGQ+I30KeyMgICAgICA8dGQ+QTwvdGQ+I30KeyMgICAgICA8dGQ+LTwvdGQ+I30KeyMgICAgPC90cj4jfQp7IyAgICA8dHI+I30KeyMgICAgICA8dGggc2NvcGU9InJvdyI+MzwvdGg+I30KeyMgICAgICA8dGQ+RG9uZWMgbm9uIGVuaW0gaW4gdHVycGlzIHB1bHZpbmFyPC90ZD4jfQp7IyAgICAgIDx0ZD4yMDE3LzA5LzAxPC90ZD4jfQp7IyAgICAgIDx0ZD5DPC90ZD4jfQp7IyAgICAgIDx0ZD5CPC90ZD4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyMgICAgPHRyPiN9CnsjICAgICAgPHRoIHNjb3BlPSJyb3ciPjE8L3RoPiN9CnsjICAgICAgPHRkPlBlbGxlbnRlc3F1ZSBoYWJpdGFudCBtb3JiaSB0cmlzdGlxdWU8L3RkPiN9CnsjICAgICAgPHRkPjIwMTcvMDcvMjI8L3RkPiN9CnsjICAgICAgPHRkPkE8L3RkPiN9CnsjICAgICAgPHRkPkI8L3RkPiN9CnsjICAgIDwvdHI+I30KeyMgICAgPHRyPiN9CnsjICAgICAgPHRoIHNjb3BlPSJyb3ciPjI8L3RoPiN9CnsjICAgICAgPHRkPnVsdHJpY2llcyBlZ2V0PC90ZD4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ2RhdGUnKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cyA9IGRiLnNlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ3RleHQnKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRiLnNlc3Npb24oKS5hZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGEgPSB7MH0sIGRhdGUgPSB7MX0sIGxhYmVsX2lkID0gezJ9Jy5mb3JtYXQoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ic2Vjb25kIj5zZWNvbmQ8L29wdGlvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -471,11 +454,11 @@
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">PA==</entry>
-        <entry>W</entry>
         <entry>s/{{ fragment }}//g</entry>
         <entry>s/\{\{ fragment \}\}//g</entry>
         <entry>s/{{ fragment  }}//g</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
