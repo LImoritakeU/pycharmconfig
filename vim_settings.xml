@@ -60,18 +60,18 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507884670577">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="32" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1507890349831">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="29" column="66" />
+        <mark key="." line="29" column="66" />
+        <mark key="^" line="29" column="66" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507887776230">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1507891179019">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+        <mark key="^" line="16" column="8" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
         <mark key="[" line="12" column="14" />
@@ -168,12 +168,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" timestamp="1507885669679">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" timestamp="1507889851468">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="43" column="1" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/title/title.component.ts" timestamp="1506754645054">
         <mark key="[" line="8" column="16" />
@@ -258,7 +258,7 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507881788954">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" timestamp="1507890008424">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="59" />
@@ -383,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHRkIGNsYXNzPSJjb2wtbWQtMSI+e3sgcmVjb3JkLmxhYmVsX2lkIH19PC90ZD4KICAgICAgPHRkIGNsYXNzPSJjb2wtbWQtMSI+LTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDwvZm9ybT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>col-md-2 text-right</text>
       </register>
       <register name="/" type="4">
         <text>{{ fragment  }}</text>
@@ -395,31 +395,31 @@
         <text encoding="base64">ICAgICAgPHRkIGNsYXNzPSJjb2wtbWQtMSI+e3sgcmVjb3JkLmxhYmVsX2lkIH19PC90ZD4KICAgICAgPHRkIGNsYXNzPSJjb2wtbWQtMSI+LTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgeyUgaWYgbm90IHJlY29yZC5jaGFuZ2VkICV9Cg==</text>
+        <text encoding="base64">ICAgIDwvZm9ybT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wgbXItc20tMiIgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlNlYXJjaCI+Cg==</text>
+        <text encoding="base64">ICAgIDxmb3JtIGFjdGlvbj0iIiBtZXRob2Q9InBvc3QiIGNsYXNzPSIiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9ImJ1dHRvbiIgdmFsdWU9IuafpeipoiI+PC9mb3JtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxmb3JtIGNsYXNzPSJmb3JtLWlubGluZSI+Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L25hdj4K</text>
+        <text encoding="base64">ICAgICAgPHRkIGNsYXNzPSJjb2wtbWQtMSI+CiAgICAgICAgPHNlbGVjdCBuYW1lPSJsYWJlbCIgaWQ9ImxhYmVsIiByZXF1aXJlZD4KICAgICAgICAgIDxvcHRpb24gc2VsZWN0ZWQgZGlzYWJsZWQ+PC9vcHRpb24+CiAgICAgICAgICB7JSBmb3IgbGFiZWwgaW4gbGFiZWxzICV9CiAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Int7IGxhYmVsLmlkIH19Ij57eyBsYWJlbC5uYW1lIH19PC9vcHRpb24+CiAgICAgICAgICAgIHslIGVuZGZvciAlfQogICAgICAgICAgPC9zZWxlY3Q+CiAgICAgIDwvdGQ+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItbGlnaHQgYmctbGlnaHQiPgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IDxoMT5VcGRhdGUgTGFiZWxzPC9oMT4KCgogIDx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtaG92ZXIiPgogICAgPHRoZWFkPgogICAgPHRyPgogICAgICA8dGg+IzwvdGg+CiAgICAgIDx0aD7mloflrZc8L3RoPgogICAgICA8dGg+5pel5pyfPC90aD4KICAgICAgPHRoPkxhYmVsPC90aD4KICAgICAgPHRoPk5ldyBMYWJlbDwvdGg+CiAgICA8L3RyPgogICAgPC90aGVhZD4KICAgIDx0Ym9keT4KICAgIDx0cj4KICAgICAgPHRoIHNjb3BlPSJyb3ciPjE8L3RoPgogICAgICA8dGQ+UGVsbGVudGVzcXVlIGhhYml0YW50IG1vcmJpIHRyaXN0aXF1ZTwvdGQ+CiAgICAgIDx0ZD4yMDE3LzA3LzIyPC90ZD4KICAgICAgPHRkPkE8L3RkPgogICAgICA8dGQ+QjwvdGQ+CiAgICA8L3RyPgogICAgPHRyPgogICAgICA8dGggc2NvcGU9InJvdyI+MjwvdGg+CiAgICAgIDx0ZD51bHRyaWNpZXMgZWdldDwvdGQ+CiAgICAgIDx0ZD4yMDE3LzA3LzI0PC90ZD4KICAgICAgPHRkPkE8L3RkPgogICAgICA8dGQ+LTwvdGQ+CiAgICA8L3RyPgogICAgPHRyPgogICAgICA8dGggc2NvcGU9InJvdyI+MzwvdGg+CiAgICAgIDx0ZD5Eb25lYyBub24gZW5pbSBpbiB0dXJwaXMgcHVsdmluYXI8L3RkPgogICAgICA8dGQ+MjAxNy8wOS8wMTwvdGQ+CiAgICAgIDx0ZD5DPC90ZD4KICAgICAgPHRkPkI8L3RkPgogICAgPC90cj4KICAgIDwvdGJvZHk+CiAgPC90YWJsZT4KICA8ZGl2IGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4KICAgIDxpbnB1dCBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiB0eXBlPSJzdWJtaXQiIHZhbHVlPSJ1cGRhdGUiPgogIDwvZGl2Pg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICA8bmF2IGNsYXNzPSJuYXZiYXIgbmF2YmFyLWxpZ2h0IGJnLWxpZ2h0Ij4KICAgIDxmb3JtIGNsYXNzPSJmb3JtLWlubGluZSI+CiAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIG1yLXNtLTIiIHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSJTZWFyY2giPgogICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLW91dGxpbmUtc3VjY2VzcyBteS0yIG15LXNtLTAiIHR5cGU9InN1Ym1pdCI+U2VhcmNoPC9idXR0b24+CiAgICA8L2Zvcm0+CiAgPC9uYXY+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gX2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyID0gY3VycmVudF9hcHAubG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ3VwZGF0ZS5odG1sJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ3RleHQnKSwKICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJ2RhdGUnKSwKICAgICAgICAgICAgICAgIHJlcXVlc3QuYXJncy5nZXQoJycpCiAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgPHRkIHN0eWxlPSJkaXNwbGF5OiBub25lIj57eyByZWNvcmQuaWQgfX08L3RkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
