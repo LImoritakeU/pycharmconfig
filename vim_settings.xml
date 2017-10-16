@@ -151,12 +151,12 @@
         <mark key="." line="30" column="92" />
         <mark key="^" line="30" column="92" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508130824998">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="82" column="7" />
-        <mark key="]" line="84" column="12" />
-        <mark key="." line="84" column="12" />
-        <mark key="^" line="84" column="12" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508137482151">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="86" column="52" />
+        <mark key="]" line="86" column="57" />
+        <mark key="." line="86" column="57" />
+        <mark key="^" line="86" column="57" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/macros.html.j2" timestamp="1500433133050">
         <mark key="[" line="0" column="6" />
@@ -383,7 +383,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICQoI3VwZGF0ZUxhYmVscykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJyKQo=</text>
       </register>
       <register name="-" type="4">
         <text>col-md-2 text-right</text>
@@ -392,34 +392,34 @@
         <text>{{ fragment  }}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHRkIGNsYXNzPSJjb2wtbWQtMSI+e3sgcmVjb3JkLmxhYmVsX2lkIH19PC90ZD4KICAgICAgPHRkIGNsYXNzPSJjb2wtbWQtMSI+LTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xIHRleHQtcmlnaHQiPgogICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiB2YWx1ZT0idXBkYXRlIGxhYmVscyIgY2xhc3M9ImJ0biBidG4taW5mbyIgaWQ9InVwZGF0ZUxhYmVscyI+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICQoI3VwZGF0ZUxhYmVscykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAge3sgcmVjb3JkLm5hbWUgfX0K</text>
+        <text encoding="base64">ICAgICAgfSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAge3sgcmVjb3JkIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGVsZS52YWwoKSAhPT0gIiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXJyID0galF1ZXJ5LmdyZXAoJCgnc2VsZWN0JywgKGVsZSkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGxhYmVsX2lkX3RvX25hbWUobnVtKToK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGVsZS52YWwoKSAhPT0gIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QG1haW4udGVtcGxhdGVfZmlsdGVyKCdsYWJlbF9pZF90b19uYW1lJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
