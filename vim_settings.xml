@@ -145,18 +145,18 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508143744207">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="42" column="26" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508148233553">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="29" />
+        <mark key="." line="46" column="29" />
+        <mark key="^" line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508143942679">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="105" column="13" />
-        <mark key="]" line="105" column="58" />
-        <mark key="." line="105" column="58" />
-        <mark key="^" line="105" column="58" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508148854254">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/macros.html.j2" timestamp="1500433133050">
         <mark key="[" line="0" column="6" />
@@ -170,11 +170,10 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508142695525">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508146016694">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
@@ -383,7 +382,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfYXBwLmxvZ2dlci5pbmZvKCd0ZXN0JykK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>ele.options[ele.selectedIndex].value</text>
@@ -395,31 +394,31 @@
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xIHRleHQtcmlnaHQiPgogICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiB2YWx1ZT0idXBkYXRlIGxhYmVscyIgY2xhc3M9ImJ0biBidG4taW5mbyIgaWQ9InVwZGF0ZUxhYmVscyI+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfYXBwLmxvZ2dlci5pbmZvKCd0ZXN0JykK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1haW4ubG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9ImJ1dHRvbiIgdmFsdWU9InJlc2V0IiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IiBpZD0icmVzZXRMYWJlbHMiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdtYWluLnJlY29yZHMnKSkK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xIHRleHQtcmlnaHQiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCd1cGRhdGUuaHRtbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAgPSBkYXRldGltZS5ub3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIF9pZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9pZCA9IHJlcXVlc3QudmFsdWVzLmdldCgnX2lkJykK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuZGVidWcodXBkYXRlcy5pZCwgdXBkYXRlcy51cGRhdGVWYWx1ZSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgIGRlZiB1cGRhdGVMYWJlbChzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -453,8 +452,6 @@
         <entry>29</entry>
         <entry>49</entry>
         <entry>2</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry>Q</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
@@ -465,6 +462,8 @@
         <entry>s/{{ fragment  }}//g</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz48</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
