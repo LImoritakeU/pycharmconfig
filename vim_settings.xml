@@ -145,18 +145,18 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508142851238">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="21" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508143744207">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+        <mark key="^" line="42" column="26" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508140985640">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508143942679">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="5" />
-        <mark key="." line="102" column="5" />
-        <mark key="^" line="102" column="5" />
+        <mark key="[" line="105" column="13" />
+        <mark key="]" line="105" column="58" />
+        <mark key="." line="105" column="58" />
+        <mark key="^" line="105" column="58" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/macros.html.j2" timestamp="1500433133050">
         <mark key="[" line="0" column="6" />
