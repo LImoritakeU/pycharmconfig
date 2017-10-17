@@ -145,12 +145,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508212518867">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
-        <mark key="^" line="48" column="23" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508214575130">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="47" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508208373064">
         <mark key="'" line="68" column="0" />
@@ -170,11 +169,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508212621977">
-        <mark key="[" line="46" column="37" />
-        <mark key="]" line="57" column="62" />
-        <mark key="." line="57" column="62" />
-        <mark key="^" line="57" column="62" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508212934267">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="61" column="18" />
+        <mark key="." line="61" column="18" />
+        <mark key="^" line="61" column="18" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
@@ -383,7 +382,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNhbXBsZXMK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuZGVidWcoIiVyIiAlc2FtcGxlcykK</text>
       </register>
       <register name="-" type="4">
         <text>old_label</text>
@@ -395,31 +394,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYW1wbGVzID0gc2FtcGxlcy5maWx0ZXIoY2xzLmRhdGEuY29udGFpbnModGV4dCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNhbXBsZXMK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuZGVidWcoIiVyIiAlc2FtcGxlcykK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FtcGxlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMucQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNhbXBsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBxdWVyeV9ieV9kYXRlKGNscyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGUgPSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbHMucQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBxdWVyeV9ieV9kYXRlKGNscyk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
