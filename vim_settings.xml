@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1508207339126">
+      <file name="/start_script.py" timestamp="1508221594422">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1508221683162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
@@ -145,12 +148,10 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508215996400">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="31" column="93" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508221316715">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508208373064">
         <mark key="'" line="68" column="0" />
@@ -170,11 +171,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508212934267">
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="61" column="18" />
-        <mark key="." line="61" column="18" />
-        <mark key="^" line="61" column="18" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508221412088">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="55" column="21" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
@@ -383,43 +384,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuZGVidWcoIiVyIiAlc2FtcGxlcykK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>old_label</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>{{ fragment  }}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYW1wbGVzID0gc2FtcGxlcy5maWx0ZXIoY2xzLmRhdGEuY29udGFpbnModGV4dCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlcyA9IGNscy5xdWVyeS5maWx0ZXIoY2xzLmRhdGUgPj0gZnJvbV9kYXRlKQogICAgICAgICAgICBpZiB0b19kYXRlOgogICAgICAgICAgICAgICAgc2FtcGxlcyA9IHNhbXBsZXMuZmlsdGVyKGNscy5kYXRlIDw9IHRvX2RhdGUpCiAgICAgICAgICAgICAgICBpZiB0ZXh0OgogICAgICAgICAgICAgICAgICAgIHNhbXBsZXMgPSBzYW1wbGVzLmZpbHRlcihjbHMuZGF0YS5jb250YWlucyh0ZXh0KSkKICAgICAgICAgICAgZWxpZiB0ZXh0OgogICAgICAgICAgICAgICAgc2FtcGxlcyA9IHNhbXBsZXMuZmlsdGVyKGNscy5kYXRhLmNvbnRhaW5zKHRleHQpKQogICAgICAgICAgICByZXR1cm4gc2FtcGxlcwoKICAgICAgICBlbGlmIHRleHQ6CiAgICAgICAgICAgIHNhbXBsZXMgPSBjbHMucXVlcnkuZmlsdGVyKGNscy5kYXRhLmNvbnRhaW5zKHRleHQpKQogICAgICAgICAgICByZXR1cm4gc2FtcGxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuZGVidWcoIiVyIiAlc2FtcGxlcykK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FtcGxlcwo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNhbXBsZXMK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNhbXBsZXMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbXBsZXMgPSBzYW1wbGVzLmZpbHRlcihjbHMuZGF0YS5jb250YWlucyh0ZXh0KSkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiB0ZXh0Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYW1wbGVzID0gc2FtcGxlcy5maWx0ZXIoY2xzLmRhdGEuY29udGFpbnModGV4dCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMucQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRleHQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBxdWVyeV9ieV9kYXRlKGNscyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbXBsZXMgPSBzYW1wbGVzLmZpbHRlcihTYW1wbGUuZGF0YS5jb250YWlucyh0ZXh0KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgcyAgICAgICAgaWYgdGV4dDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
