@@ -207,12 +207,12 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508322671705">
+      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508326896433">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1508318797416">
         <mark key="[" line="0" column="0" />
@@ -411,8 +411,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -423,32 +423,32 @@
       <register name="0" type="4">
         <text>g</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnByaW50ICgiXG5JbiBzZXR1cF9jbGFzcygpLi4uIik=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnByaW50KCJcbkluIHRlYXJkb3duX21vZHVsZSgpLi4uIik=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHNldHVwX21vZHVsZSgpCg==</text>
+        <text encoding="base64">QHB5dGVzdC55aWVsZF9maXh0dXJlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHNldHVwX21vZHVsZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBjbGkgaW1wb3J0IGluaXRfZGIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHNldHVwX21vZHVsZSgpCg==</text>
+        <text encoding="base64">ICAgIGluaXRfZGIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZWQgPSBDb2x1bW4oQm9vbGVhbiwgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlYXJkb3duX2Z1bmN0aW9uKGZ1bmN0aW9uKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -491,9 +491,9 @@
         <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
