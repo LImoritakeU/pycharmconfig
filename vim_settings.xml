@@ -69,6 +69,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/code_fragment.cls" timestamp="1508320830493">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508310499373">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -204,11 +207,12 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508318355601">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508321946220">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1508318797416">
         <mark key="[" line="0" column="0" />
@@ -232,10 +236,10 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508319417022">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508321558212">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="81" column="43" />
-        <mark key="]" line="81" column="48" />
+        <mark key="[" line="71" column="10" />
+        <mark key="]" line="71" column="10" />
         <mark key="^" line="81" column="48" />
         <mark key="." line="81" column="48" />
       </file>
@@ -305,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="77" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="71" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="63" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
@@ -405,10 +408,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZWQgPSBDb2x1bW4oQm9vbGVhbiwgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ZGVmIHNldHVwX21vZHVsZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -417,34 +421,34 @@
         <text>{{ fragment  }}</text>
       </register>
       <register name="0" type="4">
-        <text>(venv)$</text>
+        <text>g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZWQgPSBDb2x1bW4oQm9vbGVhbiwgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ZGVmIHNldHVwX21vZHVsZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNldHVwX21vZHVsZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNldHVwX21vZHVsZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZWQgPSBDb2x1bW4oQm9vbGVhbiwgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHslIGlmIHBhZ2luYXRpb24gJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+Cg==</text>
+        <text encoding="base64">ICAgIHslIGlmIHBhZ2luYXRpb24gJX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -484,12 +488,12 @@
         <entry>s/\{\{ fragment \}\}//g</entry>
         <entry>s/{{ fragment  }}//g</entry>
         <entry>67</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
