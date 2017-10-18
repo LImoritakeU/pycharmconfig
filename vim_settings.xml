@@ -6,7 +6,127 @@
       <file name="/start_script.py" timestamp="1508225114580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1508221683162">
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" timestamp="1506931661900">
+        <mark key="'" line="267" column="0" />
+        <mark key="[" line="261" column="18" />
+        <mark key="]" line="261" column="21" />
+        <mark key="^" line="261" column="21" />
+        <mark key="." line="261" column="21" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/main/errors.py" timestamp="1506603842287">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+        <mark key="." line="20" column="58" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/README.md" timestamp="1508318364816">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/app.py" timestamp="1507788600135">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_raw.html.j2" timestamp="1500434316188">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="34" column="22" />
+        <mark key="." line="34" column="22" />
+        <mark key="^" line="34" column="22" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/config/config.py" timestamp="1508312365410">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html.j2" timestamp="1500431984013">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/authentication.py" timestamp="1506749428535">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/build.html" timestamp="1507805264270">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508310499373">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="61" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508311352790">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="91" column="2" />
+        <mark key="]" line="91" column="90" />
+        <mark key="." line="91" column="90" />
+        <mark key="^" line="91" column="90" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/__init__.py" timestamp="1506677269744">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/exceptions.py" timestamp="1506666599596">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" timestamp="1506874696338">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="57" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1508229299167">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="81" />
+        <mark key="]" line="20" column="85" />
+        <mark key="." line="20" column="85" />
+        <mark key="^" line="20" column="85" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/forms_templates/manage.py" timestamp="1507887892322">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/new_label.html" timestamp="1508229088212">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+      </file>
+      <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
@@ -15,24 +135,11 @@
         <mark key="^" line="15" column="57" />
         <mark key="." line="23" column="101" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" timestamp="1506931661900">
-        <mark key="'" line="267" column="0" />
-        <mark key="[" line="261" column="18" />
-        <mark key="]" line="261" column="21" />
-        <mark key="^" line="261" column="21" />
-        <mark key="." line="261" column="21" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/views.py" timestamp="1500432312813">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="33" />
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/main/errors.py" timestamp="1506603842287">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="20" column="58" />
-        <mark key="^" line="20" column="58" />
-        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/cli.py" timestamp="1506916056495">
         <mark key="[" line="38" column="27" />
@@ -76,24 +183,6 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/README.md" timestamp="1508313014109">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/app.py" timestamp="1507788600135">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_raw.html.j2" timestamp="1500434316188">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="34" column="22" />
-        <mark key="." line="34" column="22" />
-        <mark key="^" line="34" column="22" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" timestamp="1507889851468">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="0" />
@@ -101,43 +190,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/config/config.py" timestamp="1508312365410">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="31" />
-        <mark key="]" line="44" column="47" />
-        <mark key="^" line="44" column="47" />
-        <mark key="." line="44" column="47" />
-      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/title/title.component.ts" timestamp="1506754645054">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html.j2" timestamp="1500431984013">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/authentication.py" timestamp="1506749428535">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="26" column="3" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/build.html" timestamp="1507805264270">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.html" timestamp="1506791015276">
         <mark key="[" line="12" column="52" />
@@ -145,27 +202,21 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508317752397">
+      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508318355601">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508318797416">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_quick_bootstrap.html.j2" timestamp="1500431994633">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" timestamp="1508310499373">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="61" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508311352790">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="91" column="2" />
-        <mark key="]" line="91" column="90" />
-        <mark key="." line="91" column="90" />
-        <mark key="^" line="91" column="90" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/macros.html.j2" timestamp="1500433133050">
         <mark key="[" line="0" column="6" />
@@ -179,23 +230,18 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508310412719">
-        <mark key="[" line="57" column="28" />
-        <mark key="]" line="58" column="25" />
-        <mark key="^" line="58" column="25" />
-        <mark key="." line="58" column="25" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508318946476">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="35" column="81" />
+        <mark key="]" line="35" column="80" />
+        <mark key="^" line="35" column="80" />
+        <mark key="." line="35" column="80" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/title/title.component.html" timestamp="1506754669178">
         <mark key="[" line="0" column="13" />
@@ -209,24 +255,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/__init__.py" timestamp="1506677269744">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/model_test.html" timestamp="1508226646941">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="71" />
         <mark key="]" line="28" column="66" />
         <mark key="." line="28" column="66" />
         <mark key="^" line="28" column="66" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/exceptions.py" timestamp="1506666599596">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.ts" timestamp="1506873482102">
         <mark key="'" line="30" column="43" />
@@ -235,37 +269,11 @@
         <mark key="." line="30" column="43" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" timestamp="1506874696338">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="57" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/base.html" timestamp="1508229299167">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="81" />
-        <mark key="]" line="20" column="85" />
-        <mark key="." line="20" column="85" />
-        <mark key="^" line="20" column="85" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/forms_templates/manage.py" timestamp="1507887892322">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/new_label.html" timestamp="1508229088212">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506912606668">
         <mark key="[" line="10" column="0" />
@@ -295,12 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="10" column="60" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/index.html" />
-      <jump line="81" column="14" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="80" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="77" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="71" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
@@ -341,9 +343,6 @@
       <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="30" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="59" column="38" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="61" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
       <jump line="43" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
@@ -395,10 +394,19 @@
       <jump line="69" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
       <jump line="53" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
       <jump line="45" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="53" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZWQgPSBDb2x1bW4oQm9vbGVhbiwgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -410,7 +418,7 @@
         <text>(venv)$</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZWQgPSBDb2x1bW4oQm9vbGVhbiwgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -419,22 +427,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHslIGlmIHBhZ2luYXRpb24gJX0K</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHslIGlmIHBhZ2luYXRpb24gJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0yIHRleHQtcmlnaHQiPgogICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiB2YWx1ZT0idXBkYXRlIiBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIiBpZD0idXBkYXRlTGFiZWxzIj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -473,13 +481,13 @@
         <entry>s/{{ fragment }}//g</entry>
         <entry>s/\{\{ fragment \}\}//g</entry>
         <entry>s/{{ fragment  }}//g</entry>
-        <entry>q</entry>
         <entry>67</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
