@@ -147,6 +147,9 @@
         <mark key="^" line="38" column="27" />
         <mark key="." line="38" column="27" />
       </file>
+      <file name="/a.sql" timestamp="1508319548821">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/_macros.html" timestamp="1507802172255">
         <mark key="'" line="17" column="58" />
         <mark key="[" line="33" column="7" />
@@ -165,10 +168,6 @@
         <mark key="]" line="18" column="69" />
         <mark key="^" line="18" column="69" />
         <mark key="." line="18" column="69" />
-      </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/static/styles/mystyle.css" timestamp="1507791146197">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/cli.py" timestamp="1508312613095">
         <mark key="[" line="22" column="42" />
@@ -195,6 +194,9 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
+      </file>
+      <file name="/dummy.sql" timestamp="1508319604637">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/footer/footer.component.html" timestamp="1506791015276">
         <mark key="[" line="12" column="52" />
@@ -230,12 +232,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508318946476">
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/models.py" timestamp="1508319417022">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="35" column="81" />
-        <mark key="]" line="35" column="80" />
-        <mark key="^" line="35" column="80" />
-        <mark key="." line="35" column="80" />
+        <mark key="[" line="81" column="43" />
+        <mark key="]" line="81" column="48" />
+        <mark key="^" line="81" column="48" />
+        <mark key="." line="81" column="48" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/templates/index.html.j2" timestamp="1500432023939">
         <mark key="[" line="0" column="29" />
