@@ -154,12 +154,12 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508229256121">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="61" />
-        <mark key="]" line="18" column="63" />
-        <mark key="." line="18" column="63" />
-        <mark key="^" line="18" column="63" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" timestamp="1508301247175">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="71" column="26" />
+        <mark key="]" line="71" column="34" />
+        <mark key="." line="71" column="34" />
+        <mark key="^" line="71" column="34" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/macros.html.j2" timestamp="1500433133050">
         <mark key="[" line="0" column="6" />
@@ -289,10 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="47" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="16" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
       <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/label-classification/config/config.py" />
@@ -389,10 +385,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
       <jump line="3" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="59" column="21" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="69" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="78" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
+      <jump line="85" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/templates/records.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgcmVsYXRpb25zaGlwCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -404,34 +404,34 @@
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgcmVsYXRpb25zaGlwCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHRkPk90dG88L3RkPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0yIHRleHQtcmlnaHQiPgogICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiB2YWx1ZT0idXBkYXRlIiBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIiBpZD0idXBkYXRlTGFiZWxzIj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgcmVsYXRpb25zaGlwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHRkPlRob3JudG9uPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHRkPkphY29iPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgPHRkPk90dG88L3RkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHRoIHNjb3BlPSJyb3ciPjI8L3RoPgo=</text>
+        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx0cj4K</text>
+        <text encoding="base64">ICAgICAgPHRkPlRob3JudG9uPC90ZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHRoIHNjb3BlPSJyb3ciPjE8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgPHRkPkphY29iPC90ZD4K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -470,11 +470,11 @@
         <entry>q</entry>
         <entry>67</entry>
         <entry encoding="base64">JzwsJz4+</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
