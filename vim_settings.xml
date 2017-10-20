@@ -82,11 +82,11 @@
         <mark key="." line="91" column="90" />
         <mark key="^" line="91" column="90" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508482665926">
-        <mark key="[" line="56" column="31" />
-        <mark key="]" line="57" column="8" />
-        <mark key="^" line="57" column="8" />
-        <mark key="." line="57" column="8" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508485042040">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
         <mark key="[" line="12" column="14" />
@@ -210,11 +210,10 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508479752765">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508484022195">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1508376592855">
         <mark key="[" line="0" column="0" />
@@ -414,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic3RhcnQgdGVhcmRvd24iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>{{ fragment  }}</text>
@@ -426,31 +425,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgic3RhcnQgdGVhcmRvd24iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9kYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZWFyZG93bigpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfZGIuZHJvcF9hbGwoKQogICAgICAgIF9kYi5zZXNzaW9uLnJlbW92ZSgpCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuYWRkZmluYWxpemVyKHRlYXJkb3duKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbm4uZXhlY3V0ZSgiQ1JFQVRFIERBVEFCQVNFICVzIiAlIFRlc3RpbmdDb25maWcuREJOQU1FKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBfZGIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJweXRlc3RfbW9kdWxlX2ZpeHR1cmUiKQo=</text>
+        <text encoding="base64">ICAgIGNvbm4uY2xvc2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uID0gZW5naW5lX2RlZmF1bHQuY29ubmVjdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuYWRkZmluYWxpemVyKHRlYXJkb3duKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgic3RhcnQgdGVhcmRvd24gYXBwIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -490,12 +489,12 @@
         <entry>s/\{\{ fragment \}\}//g</entry>
         <entry>s/{{ fragment  }}//g</entry>
         <entry>67</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
