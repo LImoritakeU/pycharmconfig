@@ -82,12 +82,12 @@
         <mark key="." line="91" column="90" />
         <mark key="^" line="91" column="90" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508472474780">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="50" column="7" />
-        <mark key="^" line="50" column="7" />
-        <mark key="." line="50" column="7" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508474106583">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="53" column="45" />
+        <mark key="." line="53" column="45" />
+        <mark key="^" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
         <mark key="[" line="12" column="14" />
@@ -415,7 +415,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9kYi5jcmVhdGVfYWxsKCkKICAgIF9kYi5zZXNzaW9uLmFkZChMYWJlbChuYW1lPSJ1bmtub3duIikpCg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -427,31 +427,31 @@
         <text encoding="base64">ICAgIGRiLnNlc3Npb24uYWRkKExhYmVsKG5hbWU9InVua25vd24iKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9kYi5jcmVhdGVfYWxsKCkKICAgIF9kYi5zZXNzaW9uLmFkZChMYWJlbChuYW1lPSJ1bmtub3duIikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfZGIuc2Vzc2lvbi5yZW1vdmUoKQogICAgICAgIF9kYi5kcm9wX2FsbCgpCg==</text>
+        <text encoding="base64">ICAgIGRiLnNlc3Npb24uYWRkKExhYmVsKG5hbWU9InVua25vd24iKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbm4uY2xvc2UoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1ldGFkYXRhLmNyZWF0ZV9hbGwoY29ubikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbm4gPSBlbmdpbmVfbmV3LmNvbm5lY3QoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0aW5nQ29uZmlnLlNRTEFMQ0hFTVlfREFUQUJBU0VfVVJJLCBwb29sY2xhc3M9TnVsbFBvb2wpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZV9uZXcgPSBjcmVhdGVfZW5naW5lKAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkYi5kcm9wX2FsbCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLnJlbW92ZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZWFyZG93bigpOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICBpcyB1c2VkIHRvIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2ogPSBUYWJsZSgnanVzdHRlc3QnLCBtZXRhZGF0YSwgQ29sdW1uKCdpZCcsIEludGVnZXIpKQo=</text>
+        <text encoding="base64">ICAgIEluIFNxbGFsY2hlbXksIGNsYXNzIGlzIHVzZWQgdG8gbWFwIHRhYmxlIGluIFJEQk1TLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -495,8 +495,8 @@
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
