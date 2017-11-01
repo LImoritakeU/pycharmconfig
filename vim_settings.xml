@@ -222,11 +222,11 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508497465904">
-        <mark key="[" line="38" column="54" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/test_db.py" timestamp="1508497697430">
+        <mark key="[" line="37" column="67" />
+        <mark key="]" line="38" column="85" />
+        <mark key="." line="38" column="85" />
+        <mark key="^" line="38" column="85" />
       </file>
       <file name="/Dummy.txt" timestamp="1508376592855">
         <mark key="[" line="0" column="0" />
@@ -489,7 +489,6 @@
         <entry>{{ fragment  }}</entry>
       </history-search>
       <history-cmd>
-        <entry>24</entry>
         <entry>7</entry>
         <entry>21</entry>
         <entry>29</entry>
@@ -508,6 +507,7 @@
         <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz48</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
