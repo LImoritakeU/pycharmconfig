@@ -59,11 +59,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510023763677">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510024992332">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html.j2" timestamp="1500431984013">
         <mark key="[" line="0" column="22" />
@@ -99,6 +99,11 @@
         <mark key="]" line="91" column="90" />
         <mark key="." line="91" column="90" />
         <mark key="^" line="91" column="90" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/storm-web/tests/test_products.py" timestamp="1510024912638">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508485913952">
         <mark key="[" line="31" column="0" />
@@ -333,6 +338,9 @@
         <mark key="^" line="36" column="2" />
         <mark key="." line="36" column="2" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/storm-web/tests/test_fake_products.py" timestamp="1510024711490">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="47" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/views/main.py" />
@@ -438,7 +446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ZnJvbSBmYWtlciBpbXBvcnQgRmFrZXIK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -447,19 +455,19 @@
         <text>{{ fragment  }}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBjb2Rpbmc9dXRmLTgKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQsIHVuaWNvZGVfbGl0ZXJhbHMK</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">awo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBmYWtlciBpbXBvcnQgRmFrZXIK</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
