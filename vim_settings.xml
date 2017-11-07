@@ -59,6 +59,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510023763677">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html.j2" timestamp="1500431984013">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="24" />
@@ -159,11 +165,11 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/templates/index.html.j2" timestamp="1510022085007">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/templates/index.html.j2" timestamp="1510023173923">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/cli.py" timestamp="1506916056495">
         <mark key="[" line="38" column="27" />
@@ -432,7 +438,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGh0bWw+PC9odG1sPgo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -444,31 +450,31 @@
         <text encoding="base64">IyBjb2Rpbmc9dXRmLTgKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQsIHVuaWNvZGVfbGl0ZXJhbHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGh0bWw+PC9odG1sPgo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGh0bWw1PjwvaHRtbDU+Cg==</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgVAo=</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzYW1wbGVzKQo=</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iIj48L2E+PC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
