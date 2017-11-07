@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1508225114580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1510028646020">
+      <file name="/a.dummy" timestamp="1510047765080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/templates/stats.html.j2" timestamp="1510038244507">
@@ -113,6 +113,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" timestamp="1510048126983">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508485913952">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -187,6 +193,11 @@
       </file>
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510047863428">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -506,7 +517,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5oZ2V0YWxsKGRkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -518,31 +529,31 @@
         <text encoding="base64">Y2xhc3MgUHJvdmlkZXIoQmFzZVByb3ZpZGVyKToKICAgICIiIldpbGwgcHJvdmlkZSBtZXRob2RzIHRvIHJldHJpZXZlIHByb2R1Y3RzCiAgICAiIiIKICAgIGNhdGVnb3J5CiAgICAKICAgIGRlZiBwcm9kdWN0KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJhbmRvbV9lbGVtZW50KHNlbGYucHJvZHVjdF90dXBsZSkKICAgIAogICAgZGVmIHByb2R1Y3RfY2F0ZWdvcnkoc2VsZik6CiAgICAgICAgcmV0dXJuIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5oZ2V0YWxsKGRkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0ZW0gPSBxdWVyeV9ieV9pZChwcm9kdWN0cywgaWQpCg==</text>
+        <text encoding="base64">ZnJvbSBzcG91dHMud29yZHMgaW1wb3J0IFdvcmRTcG91dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHA+e3sgaXRlbS5wcmljZSB9fTwvcD4K</text>
+        <text encoding="base64">ZnJvbSBib2x0cy53b3JkY291bnQgaW1wb3J0IFdvcmRDb3VudEJvbHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldAo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V29yZCBjb3VudCB0b3BvbG9neQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbaXRlbSBmb3IgaXRlbSBpbiBwcm9kdWN0cyBpZiBpdGVtLmlkID09IGlkIF1bMF0K</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGN5Y2xlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHF1ZXJ5X2J5X2lkKGl0ZW0sIGlkKToK</text>
+        <text encoding="base64">ICAgIGNsaWVudC5oZ2V0YWxsKGRkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
