@@ -163,11 +163,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/en/__init__.py" timestamp="1510038335416">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/en/__init__.py" timestamp="1510039832644">
+        <mark key="[" line="63" column="76" />
+        <mark key="]" line="61" column="4" />
+        <mark key="^" line="61" column="4" />
+        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/__init__.py" timestamp="1510030430905">
         <mark key="[" line="11" column="15" />
@@ -499,11 +499,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm-web/tests/test_products.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGl0ZW0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>{{ item.name }}</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>{{ fragment  }}</text>
@@ -512,31 +512,31 @@
         <text encoding="base64">Y2xhc3MgUHJvdmlkZXIoQmFzZVByb3ZpZGVyKToKICAgICIiIldpbGwgcHJvdmlkZSBtZXRob2RzIHRvIHJldHJpZXZlIHByb2R1Y3RzCiAgICAiIiIKICAgIGNhdGVnb3J5CiAgICAKICAgIGRlZiBwcm9kdWN0KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJhbmRvbV9lbGVtZW50KHNlbGYucHJvZHVjdF90dXBsZSkKICAgIAogICAgZGVmIHByb2R1Y3RfY2F0ZWdvcnkoc2VsZik6CiAgICAgICAgcmV0dXJuIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGl0ZW0pCg==</text>
+        <text encoding="base64">JyAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYW1lcmEgJiBQaG90bwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHA+PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8cD57eyBpdGVtLm5hbWUgfX08L3A+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGl0ZW0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3QgPSBmaWx0ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geCBpZiB4WydpZCddCg==</text>
+        <text encoding="base64">PHA+PC9wPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBxdWVyeSh4KToK</text>
+        <text encoding="base64">ICA8cD57eyBpdGVtLm5hbWUgfX08L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3QgPSBmaWx0ZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geCBpZiB4WydpZCddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -575,13 +575,13 @@
         <entry>s/\{\{ fragment \}\}//g</entry>
         <entry>s/{{ fragment  }}//g</entry>
         <entry>67</entry>
-        <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>w'</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -650,6 +650,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
