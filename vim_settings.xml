@@ -182,16 +182,17 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/utils/__init__.py" timestamp="1510122084198">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/utils/__init__.py" timestamp="1510123048854">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510122293614">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="25" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510126276763">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/__init__.py" timestamp="1510041895868">
         <mark key="[" line="5" column="0" />
@@ -206,17 +207,17 @@
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510049698524">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510126650149">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510122055578">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="31" column="66" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510125419176">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="59" />
+        <mark key="^" line="34" column="59" />
+        <mark key="." line="34" column="59" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -305,12 +306,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510052717230">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="82" column="54" />
-        <mark key="." line="82" column="54" />
-        <mark key="^" line="82" column="54" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510124752072">
+        <mark key="'" line="20" column="38" />
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="/dummy.sql" timestamp="1508319604637">
         <mark key="[" line="0" column="0" />
@@ -451,7 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="51" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="38" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
       <jump line="36" column="0" filename="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" />
@@ -551,57 +551,58 @@
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" />
       <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
       <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="20" column="38" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>str(content['product'])</text>
+        <text>get_url(stormconf)</text>
       </register>
       <register name="/" type="4">
-        <text>price:</text>
+        <text>name=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dHB1dHMgPSBbJ3dvcmQnXQoKICAgIGRlZiBpbml0aWFsaXplKHNlbGYsIHN0b3JtY29uZiwgY29udGV4dCk6CgogICAgZGVmIG5leHRfdHVwbGUoc2VsZik6CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IGNvbm4oZ2V0X3VybChzdG9ybWNvbmYpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBDb25uZWN0aW9uRXJyb3IgYXMgZToK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBuZXh0X3R1cGxlKHNlbGYpOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplKHNlbGYsIHN0b3JtY29uZiwgY29udGV4dCk6Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcy5mcm9tX3VybCh1cmwpCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dHMgPSBbJ3dvcmQnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>price:</last-search>
+      <last-search>name=</last-search>
       <last-offset />
-      <last-pattern>price:</last-pattern>
-      <last-replace>price=</last-replace>
-      <last-substitute>price:</last-substitute>
+      <last-pattern>name=</last-pattern>
+      <last-replace>title=</last-replace>
+      <last-substitute>name=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -620,11 +621,11 @@
         <entry>Product(name=</entry>
         <entry>category:</entry>
         <entry>price:</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>name=</entry>
       </history-search>
       <history-cmd>
-        <entry>Q</entry>
         <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">PA==</entry>
         <entry>s/{{ fragment }}//g</entry>
         <entry>s/\{\{ fragment \}\}//g</entry>
         <entry>s/{{ fragment  }}//g</entry>
@@ -637,11 +638,13 @@
         <entry>1,$s/Product(name=/Product(id=, name=/g</entry>
         <entry>1,$s/category:/category=/g</entry>
         <entry>1,$s/price:/price=/g</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>W</entry>
-        <entry>w</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>16,39s/name=/title=/g</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
