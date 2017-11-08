@@ -207,17 +207,17 @@
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510126650149">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510129458089">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510125419176">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="34" column="59" />
-        <mark key="^" line="34" column="59" />
-        <mark key="." line="34" column="59" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510129474367">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="32" column="59" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -555,7 +555,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZGlzCg==</text>
       </register>
       <register name="-" type="4">
         <text>get_url(stormconf)</text>
@@ -567,28 +567,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IGNvbm4oZ2V0X3VybChzdG9ybWNvbmYpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZGlzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByZWRpcy5leGNlcHRpb25zIGltcG9ydCBDb25uZWN0aW9uRXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kX2tleSA9IHByb2QxICsgIjoiICsgY2F0MQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzKHNlbGYsIHR1cCk6CiAgICAgICAgdXNlciwgcHJvZDEsIGNhdDEgPSB0dXBsZS52YWx1ZXMKCiAgICAgICAgcHJvZF9rZXkgPSBwcm9kMSArICI6IiArIGNhdDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBuZXh0X3R1cGxlKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplKHNlbGYsIHN0b3JtY29uZiwgY29udGV4dCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0X25hdmlnYXRlZCA9IHNldCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dHB1dHMgPSBbJ3dvcmQnXQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
