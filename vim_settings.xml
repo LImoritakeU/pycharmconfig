@@ -207,11 +207,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510210587534">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="25" column="31" />
-        <mark key="^" line="25" column="31" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510212468758">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510209804532">
         <mark key="'" line="0" column="0" />
@@ -219,18 +219,18 @@
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510208536415">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-        <mark key="^" line="2" column="4" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510212489365">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510211681141">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510212402695">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="40" column="20" />
-        <mark key="^" line="40" column="20" />
-        <mark key="." line="40" column="20" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -313,12 +313,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510209801262">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510212511867">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-        <mark key="^" line="4" column="4" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510207601013">
         <mark key="'" line="113" column="0" />
@@ -408,12 +408,12 @@
         <mark key="." line="30" column="43" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" timestamp="1510212269396">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" timestamp="1510212527365">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="27" column="24" />
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
