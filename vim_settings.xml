@@ -207,11 +207,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510212468758">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="7" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510215004588">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510209804532">
         <mark key="'" line="0" column="0" />
@@ -219,18 +219,18 @@
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510212489365">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="18" column="17" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510215163718">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510213829944">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510215011363">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="17" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -313,12 +313,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510212511867">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510215171841">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
+        <mark key="[" line="26" column="51" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510207601013">
         <mark key="'" line="113" column="0" />
@@ -408,12 +408,12 @@
         <mark key="." line="30" column="43" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" timestamp="1510212527365">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" timestamp="1510215069297">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -573,10 +573,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>try:
-    import simplejson as json
-except ImportError:
-    import json</text>
+        <text>['product', 'category']</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -585,13 +582,10 @@ except ImportError:
         <text>name</text>
       </register>
       <register name="0" type="4">
-        <text>try:
-    import simplejson as json
-except ImportError:
-    import json</text>
+        <text>['product', 'category']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVtaXQoKCJlbXB0eSIpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -606,28 +600,28 @@ except ImportError:
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInZpcnR1YWxlbnZfcm9vdCI6ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZW1pdCgoJ3VzZXInLCAnZGljdCcpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZW1pdCgoJ3VzZXInLCAnZGljdCcpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZXZlbCI6ICJpbmZvIgo=</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJiYWNrdXBfY291bnQiOiAxMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInZpcnR1YWxlbnZfcm9vdCI6ICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJtYXhfYnl0ZXMiOiAxMDAwMDAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXRoIjogIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZXZlbCI6ICJpbmZvIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxvZyI6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJiYWNrdXBfY291bnQiOiAxMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndvcmtlcnMiOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJtYXhfYnl0ZXMiOiAxMDAwMDAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
