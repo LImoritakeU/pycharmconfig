@@ -113,12 +113,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" timestamp="1510136974262">
+      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" timestamp="1510193466734">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508485913952">
         <mark key="[" line="31" column="0" />
@@ -126,11 +126,11 @@
         <mark key="^" line="53" column="7" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html.j2" timestamp="1510047050669">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html.j2" timestamp="1510194084395">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
         <mark key="[" line="12" column="14" />
@@ -234,11 +234,11 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/templates/index.html.j2" timestamp="1510036642096">
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="68" />
-        <mark key="." line="13" column="53" />
-        <mark key="^" line="14" column="10" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/templates/index.html.j2" timestamp="1510194070247">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+        <mark key="^" line="13" column="65" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/cli.py" timestamp="1506916056495">
         <mark key="[" line="38" column="27" />
@@ -307,12 +307,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="42" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510124752072">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510194526131">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="97" column="36" />
+        <mark key="." line="97" column="36" />
+        <mark key="^" line="97" column="36" />
       </file>
       <file name="/dummy.sql" timestamp="1508319604637">
         <mark key="[" line="0" column="0" />
@@ -329,7 +329,7 @@
         <mark key="." line="38" column="85" />
         <mark key="^" line="38" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510137591392">
+      <file name="/Dummy.txt" timestamp="1510138135557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_quick_bootstrap.html.j2" timestamp="1500431994633">
@@ -456,11 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="19" column="14" filename="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" />
       <jump line="116" column="6" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
@@ -556,6 +551,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="90" column="5" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="10" column="14" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="12" column="10" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -565,7 +565,7 @@
         <text>get_url(stormconf)</text>
       </register>
       <register name="/" type="4">
-        <text>name=</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IGNvbm4oZ2V0X3VybChzdG9ybWNvbmYpKQo=</text>
@@ -614,9 +614,9 @@
       </register>
     </registers>
     <search>
-      <last-search>name=</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>name=</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace>title=</last-replace>
       <last-substitute>name=</last-substitute>
       <last-dir>1</last-dir>
@@ -639,6 +639,8 @@
         <entry>price:</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>name=</entry>
+        <entry>item.name</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pg==</entry>
