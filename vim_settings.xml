@@ -6,7 +6,19 @@
       <file name="/start_script.py" timestamp="1510107857462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1510047765080">
+      <file name="$USER_HOME$/bluetech/web/storm_server/fabfile.py" timestamp="1510208156715">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="55" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/storm_server/project.clj" timestamp="1510208896940">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+      </file>
+      <file name="/a.dummy" timestamp="1510209036203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/templates/stats.html.j2" timestamp="1510038244507">
@@ -113,12 +125,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" timestamp="1510193466734">
+      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" timestamp="1510208833004">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="52" column="54" />
+        <mark key="." line="52" column="54" />
+        <mark key="^" line="52" column="54" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/tests/main/conftest.py" timestamp="1508485913952">
         <mark key="[" line="31" column="0" />
@@ -126,11 +138,11 @@
         <mark key="^" line="53" column="7" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html.j2" timestamp="1510194084395">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html.j2" timestamp="1510207981884">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
         <mark key="[" line="12" column="14" />
@@ -182,17 +194,23 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/utils/__init__.py" timestamp="1510123048854">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/utils/__init__.py" timestamp="1510209150736">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510130306800">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-        <mark key="^" line="7" column="5" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/config.json" timestamp="1510208128235">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510208871744">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/__init__.py" timestamp="1510041895868">
         <mark key="[" line="5" column="0" />
@@ -207,17 +225,17 @@
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510130289727">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510208536415">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510129474367">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="32" column="59" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510208521009">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -300,19 +318,19 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510135290443">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510208395523">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="46" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="42" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510194526131">
-        <mark key="'" line="12" column="10" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="97" column="36" />
-        <mark key="." line="97" column="36" />
-        <mark key="^" line="97" column="36" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510207601013">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="94" column="71" />
+        <mark key="]" line="97" column="50" />
+        <mark key="." line="97" column="50" />
+        <mark key="^" line="97" column="50" />
       </file>
       <file name="/dummy.sql" timestamp="1508319604637">
         <mark key="[" line="0" column="0" />
@@ -395,11 +413,11 @@
         <mark key="." line="30" column="43" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" timestamp="1510136872659">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" timestamp="1510208529050">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_bootstrap.html" timestamp="1500431967628">
         <mark key="[" line="0" column="22" />
@@ -456,34 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="19" column="14" filename="$USER_HOME$/bluetech/web/storm_server/topologies/brower_stats.py" />
-      <jump line="116" column="6" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="170" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="129" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
       <jump line="105" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
       <jump line="114" column="0" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" />
       <jump line="25" column="6" filename="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/pystorm/bolt.py" />
@@ -554,15 +544,43 @@
       <jump line="88" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="90" column="5" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="2" column="24" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="10" column="14" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="12" column="10" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzID0gdXJsb3BlbihyZXEpLnJlYWQoKS5kZWNvZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>get_url(stormconf)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -571,7 +589,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IGNvbm4oZ2V0X3VybChzdG9ybWNvbmYpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzID0gdXJsb3BlbihyZXEpLnJlYWQoKS5kZWNvZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -586,28 +604,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxID0gUmVxdWVzdChzZWxmLndlYnNlcnZlciwgdXJsZW5jb2RlKGNvbnRlbnQpLmVuY29kZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInZpcnR1YWxlbnZfcm9vdCI6ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZXZlbCI6ICJpbmZvIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0ganNvbi5kdW1wcygK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJiYWNrdXBfY291bnQiOiAxMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucmVxdWVzdCBpbXBvcnQgUmVxdWVzdCwgdXJsb3Blbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJtYXhfYnl0ZXMiOiAxMDAwMDAwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGVuY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXRoIjogIiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxvZyI6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndvcmtlcnMiOiBbXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -657,11 +675,11 @@
         <entry>1,$s/category:/category=/g</entry>
         <entry>1,$s/price:/price=/g</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>W</entry>
         <entry encoding="base64">PA==</entry>
         <entry>16,39s/name=/title=/g</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
