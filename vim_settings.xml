@@ -18,14 +18,14 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1510218850466">
+      <file name="/a.dummy" timestamp="1510307541837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/templates/stats.html.j2" timestamp="1510038244507">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="63" />
-        <mark key="^" line="7" column="63" />
-        <mark key="." line="7" column="63" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/templates/stats.html.j2" timestamp="1510306498646">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" timestamp="1506931661900">
         <mark key="'" line="267" column="0" />
@@ -138,11 +138,11 @@
         <mark key="^" line="53" column="7" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html.j2" timestamp="1510207981884">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html.j2" timestamp="1510307696842">
+        <mark key="[" line="10" column="54" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/index.html" timestamp="1506754002665">
         <mark key="[" line="12" column="14" />
@@ -214,12 +214,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="15" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510294606970">
+      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510304890302">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
@@ -319,12 +319,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510301673717">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="78" column="39" />
-        <mark key="]" line="78" column="27" />
-        <mark key="." line="78" column="27" />
-        <mark key="^" line="78" column="27" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510307587156">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="52" column="53" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510220080946">
         <mark key="'" line="112" column="0" />
@@ -348,8 +348,9 @@
         <mark key="." line="38" column="85" />
         <mark key="^" line="38" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510223534752">
+      <file name="/Dummy.txt" timestamp="1510308047532">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_quick_bootstrap.html.j2" timestamp="1500431994633">
         <mark key="[" line="0" column="22" />
@@ -476,11 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="4" column="4" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="52" column="54" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
       <jump line="16" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
       <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
       <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
@@ -539,7 +535,6 @@
       <jump line="54" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="56" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="61" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="69" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="37" column="19" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="36" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
@@ -576,13 +571,19 @@
       <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
       <jump line="22" column="49" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" />
       <jump line="36" column="26" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="81" column="74" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdD1wcm9kdWN0LCBjYXRlZ29yeT1jYXRlZ29yeSksIGxldmVsPSdkZWJ1ZycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>start_downloader_thread</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>prodcnt</text>
@@ -591,7 +592,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nKCdvdXRwdXQ9ICVzJyAlIHN0cihvdXRwdXQpLCBsZXZlbD0nZGVidWcnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdD1wcm9kdWN0LCBjYXRlZ29yeT1jYXRlZ29yeSksIGxldmVsPSdkZWJ1ZycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -606,28 +607,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZygncHJvZHVjdD17cHJvZHVjdH0sIGNhdGVnb3J5PXtjYXRlZ29yeX0nLmZvcm1hdCgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gdGhyZWFkaW5nLlRpbWVyKHNlbGYudGltZSwgZG93bmxvYWRlcikKICAgICAgICB0LnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5sb2coImluIHBlbmRpbmdzX2tleSBsb29wIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZG93bmxvYWRlcigpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nKCJuZXdfdGhyZWFkaW5nIiwgbGV2ZWw9Indhcm4iKQo=</text>
+        <text encoding="base64">ICAgICAgICBlID0gdGhyZWFkaW5nLkV2ZW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nKCJuZXdfdGhyZWFkaW5nIiwgbGV2ZWw9Indhcm4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvd25sb2FkZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCByZXF1ZXN0LnVybG9wZW4oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgbm90IGV2ZW50LndhaXQodGltZW91dD1zZWxmLnRpbWUpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCByZXF1ZXN0LnVybG9wZW4oCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcmVwZWF0X2Rvd25sb2FkZXIoKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
