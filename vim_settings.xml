@@ -319,12 +319,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510297678100">
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510298774604">
         <mark key="'" line="36" column="26" />
-        <mark key="[" line="37" column="73" />
-        <mark key="]" line="37" column="66" />
-        <mark key="." line="37" column="66" />
-        <mark key="^" line="37" column="66" />
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="51" column="38" />
+        <mark key="^" line="51" column="38" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510220080946">
         <mark key="'" line="112" column="0" />
