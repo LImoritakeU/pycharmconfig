@@ -27,11 +27,12 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" timestamp="1510556024645">
-        <mark key="[" line="2" column="97" />
-        <mark key="]" line="2" column="97" />
-        <mark key="^" line="2" column="97" />
-        <mark key="." line="2" column="97" />
+      <file name="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" timestamp="1510557076902">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" timestamp="1506931661900">
         <mark key="'" line="267" column="0" />
@@ -108,6 +109,7 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/storm-webstatistics/storm-web/app.py" timestamp="1510556185673" />
       <file name="/code_fragment.cls" timestamp="1508320830493">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,6 +164,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/bluetech/web/storm-webstatistics/storm-server/topologies/browser_stats.py" timestamp="1510556525406" />
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/exceptions.py" timestamp="1506666599596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
@@ -249,9 +252,6 @@
         <mark key="]" line="23" column="100" />
         <mark key="^" line="15" column="57" />
         <mark key="." line="23" column="101" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/streamparse/storm/bolt.py" timestamp="1510113872946">
-        <mark key="'" line="114" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/views.py" timestamp="1500432312813">
         <mark key="[" line="10" column="34" />
@@ -470,9 +470,6 @@
       <file name="$USER_HOME$/bluetech/web/storm-web/tests/test_fake_products.py" timestamp="1510024711490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/storm-web/lib/python3.6/site-packages/pystorm/bolt.py" timestamp="1510113908381">
-        <mark key="'" line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html" timestamp="1510037572143">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -484,8 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="57" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="52" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
       <jump line="48" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
@@ -584,10 +579,12 @@
       <jump line="32" column="13" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
       <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="38" column="17" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" />
+      <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MS4g56K65L+d55W25YmN5L2/55So6ICF5LiN6ZyA5a+G56K85Y2z5Y+vIHNzaCDpgKPnt5ogc3Rvcm0gbm9kZXMo6K6TIHN0cmVhbXBhcnNlIOS9iOe9suiZm+aTrOeSsOWigykK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;redis://192.168.1.117&quot;</text>
@@ -599,7 +596,7 @@
         <text>r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MS4g56K65L+d55W25YmN5L2/55So6ICF5LiN6ZyA5a+G56K85Y2z5Y+vIHNzaCDpgKPnt5ogc3Rvcm0gbm9kZXMo6K6TIHN0cmVhbXBhcnNlIOS9iOe9suiZm+aTrOeSsOWigykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -617,25 +614,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIFdlYgoxLiDkv67mlLkgYXBwLnB5IOeahCBSRURJU19VUkwg5L2N5Z2ACjEuIOe1guerr+i8uOWFpSBgcHl0aG9uIGFwcC5weWAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">MS4g5YWI56K65L+dIHN0b3JtIGNsdXN0ZXIg6YGL6KGM5q2j5bi4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5sb2coIm5ld190aHJlYWRpbmciLCBsZXZlbD0id2FybiIpCg==</text>
+        <text encoding="base64">MS4g5YWI56K65L+dIHN0b3JtIGNsdXN0ZXIg6YGL6KGM5q2j5bi4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gRE9XTkxPQURfVElNRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gV0VCU0VSVklDRQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleT1rZXksIHZhbHVlPWNvdW50KSwgbGV2ZWw9ImRlYnVnIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2coInBlbmRpbmdfdG9fc2F2ZSBrZXk9e2tleX0gdmFsdWU9e3ZhbHVlfSIuZm9ybWF0KAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
