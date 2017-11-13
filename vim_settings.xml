@@ -47,6 +47,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/streamparse/apache/fabfile.py" timestamp="1510560916768">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/main/errors.py" timestamp="1506603842287">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="20" column="58" />
@@ -170,6 +176,11 @@
         <mark key="]" line="1" column="7" />
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/streamparse/apache/config.json" timestamp="1510561018389">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.component.html" timestamp="1506874696338">
         <mark key="'" line="22" column="12" />
@@ -584,7 +595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">MS4g56K65L+d55W25YmN5L2/55So6ICF5LiN6ZyA5a+G56K85Y2z5Y+vIHNzaCDpgKPnt5ogc3Rvcm0gbm9kZXMo6K6TIHN0cmVhbXBhcnNlIOS9iOe9suiZm+aTrOeSsOWigykK</text>
+        <text encoding="base64">ICAgICAgICAiYm9vdHN0cmFwLnNlcnZlcnMiOiAiMTkyLjE2OC4xLjMxOjkwOTIsIDE5Mi4xNjguMS4zMjo5MDkyLCAxOTIuMTY4LjEuMzM6OTA5MiIK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;redis://192.168.1.117&quot;</text>
@@ -596,7 +607,7 @@
         <text>r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MS4g56K65L+d55W25YmN5L2/55So6ICF5LiN6ZyA5a+G56K85Y2z5Y+vIHNzaCDpgKPnt5ogc3Rvcm0gbm9kZXMo6K6TIHN0cmVhbXBhcnNlIOS9iOe9suiZm+aTrOeSsOWigykK</text>
+        <text encoding="base64">ICAgICAgICAiYm9vdHN0cmFwLnNlcnZlcnMiOiAiMTkyLjE2OC4xLjMxOjkwOTIsIDE5Mi4xNjguMS4zMjo5MDkyLCAxOTIuMTY4LjEuMzM6OTA5MiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -611,28 +622,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIFdlYgoxLiDkv67mlLkgYXBwLnB5IOeahCBSRURJU19VUkwg5L2N5Z2ACjEuIOe1guerr+i8uOWFpSBgcHl0aG9uIGFwcC5weWAK</text>
+        <text encoding="base64">ICAgICAgICAgICJhdXRvLm9mZnNldC5yZXNldCI6ICJzbWFsbGVzdCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MS4g5YWI56K65L+dIHN0b3JtIGNsdXN0ZXIg6YGL6KGM5q2j5bi4Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZGVmYXVsdC50b3BpYy5jb25maWciOiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MS4g5YWI56K65L+dIHN0b3JtIGNsdXN0ZXIg6YGL6KGM5q2j5bi4Cg==</text>
+        <text encoding="base64">ICAgICAgImthZmthX2NvbmZpZyI6IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gRE9XTkxPQURfVElNRQo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gV0VCU0VSVklDRQo=</text>
+        <text encoding="base64">ICAgICAgInVzZV92aXJ0dWFsZW52IjogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgInVzZV9zc2hfZm9yX25pbWJ1cyI6IGZhbHNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
