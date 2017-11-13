@@ -200,43 +200,43 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/config.json" timestamp="1510300124925">
+      <file name="$USER_HOME$/bluetech/web/storm_server/config.json" timestamp="1510543512530">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="21" />
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510283245548">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="67" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="15" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" timestamp="1510544270635">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510304890302">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="/Python Console" timestamp="1508318827881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510287316948">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510544245287">
+        <mark key="'" line="32" column="21" />
         <mark key="[" line="48" column="57" />
         <mark key="]" line="49" column="11" />
         <mark key="." line="49" column="11" />
         <mark key="^" line="49" column="11" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510283138277">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="11" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" timestamp="1510544266400">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -320,19 +320,19 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510541917057">
-        <mark key="'" line="83" column="57" />
-        <mark key="[" line="52" column="53" />
-        <mark key="]" line="53" column="11" />
-        <mark key="." line="53" column="11" />
-        <mark key="^" line="53" column="11" />
+      <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" timestamp="1510544255689">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510542708854">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="95" column="80" />
-        <mark key="]" line="95" column="80" />
-        <mark key="." line="95" column="80" />
-        <mark key="^" line="95" column="80" />
+      <file name="$USER_HOME$/bluetech/web/storm-web/app.py" timestamp="1510543091580">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1508319604637">
         <mark key="[" line="0" column="0" />
@@ -478,122 +478,122 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="19" column="7" filename="$USER_HOME$/bluetech/web/storm_server/config.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/config.json" />
-      <jump line="9" column="4" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="4" column="4" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" />
-      <jump line="31" column="43" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="59" column="19" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="18" column="17" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="11" column="32" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="85" column="8" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="65" column="24" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="5" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="17" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="37" column="19" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="17" column="34" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
       <jump line="36" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="29" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="27" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="18" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="15" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="52" column="31" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="26" column="39" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="5" column="4" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="22" column="49" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/news_notifier.py" />
-      <jump line="36" column="26" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="81" column="74" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="13" column="65" filename="$USER_HOME$/bluetech/web/storm-web/templates/index.html.j2" />
-      <jump line="83" column="57" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="95" column="51" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/bluetech/web/storm-web/app.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="57" column="26" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
+      <jump line="33" column="21" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
+      <jump line="32" column="21" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
+      <jump line="81" column="7" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="34" column="13" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="75" column="21" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="15" column="11" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
+      <jump line="32" column="13" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
+      <jump line="38" column="17" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYXNlNjQuYjY0ZGVjb2RlKHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>&quot;redis://192.168.1.117&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>prodcnt</text>
+        <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nKCdvdXRwdXQ9ICVzJyAlIHN0cihvdXRwdXQpLCBsZXZlbD0nZGVidWcnKQo=</text>
+      <register name="0" type="4">
+        <text>r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYXNlNjQuYjY0ZGVjb2RlKHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -608,37 +608,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGI2NGRlY29kZV9maWx0ZXIocyk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcC50ZW1wbGF0ZV9maWx0ZXIoJ2I2NGRlY29kZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdD1wcm9kdWN0LCBjYXRlZ29yeT1jYXRlZ29yeSksIGxldmVsPSdkZWJ1ZycpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZygncHJvZHVjdD17cHJvZHVjdH0sIGNhdGVnb3J5PXtjYXRlZ29yeX0nLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5sb2coIm5ld190aHJlYWRpbmciLCBsZXZlbD0id2FybiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5sb2coImluIHBlbmRpbmdzX2tleSBsb29wIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlID0gdGhyZWFkaW5nLkV2ZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleT1rZXksIHZhbHVlPWNvdW50KSwgbGV2ZWw9ImRlYnVnIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2coInBlbmRpbmdfdG9fc2F2ZSBrZXk9e2tleX0gdmFsdWU9e3ZhbHVlfSIuZm9ybWF0KAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prodcnt</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>prodcnt</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>title=</last-replace>
       <last-substitute>name=</last-substitute>
       <last-dir>1</last-dir>
@@ -665,6 +665,7 @@
         <entry>name</entry>
         <entry>category</entry>
         <entry>prodcnt</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pg==</entry>
