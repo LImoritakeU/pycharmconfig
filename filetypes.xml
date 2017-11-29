@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="*.j2.html" type="Jinja2" />
       <mapping ext="j2" type="Jinja2" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
