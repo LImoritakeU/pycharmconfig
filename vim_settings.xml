@@ -40,13 +40,6 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/streamparse/apache/topologies/apache.py" timestamp="1510563945598">
-        <mark key="'" line="17" column="32" />
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/models.py" timestamp="1506931661900">
         <mark key="'" line="267" column="0" />
         <mark key="[" line="261" column="18" />
@@ -59,12 +52,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/streamparse/apache/fabfile.py" timestamp="1510569274961">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="65" />
-        <mark key="^" line="9" column="65" />
-        <mark key="." line="9" column="65" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/main/errors.py" timestamp="1506603842287">
         <mark key="[" line="21" column="34" />
@@ -128,7 +115,6 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-webstatistics/storm-web/app.py" timestamp="1510556185673" />
       <file name="/code_fragment.cls" timestamp="1508320830493">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +169,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bluetech/web/storm-webstatistics/storm-server/topologies/browser_stats.py" timestamp="1510556525406" />
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/exceptions.py" timestamp="1506666599596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
@@ -278,19 +263,6 @@
         <mark key="^" line="15" column="57" />
         <mark key="." line="23" column="101" />
       </file>
-      <file name="$USER_HOME$/streamparse/apache/src/bolts/zadd.py" timestamp="1510564356352">
-        <mark key="'" line="18" column="47" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/streamparse/apache/src/bolts/transfer.py" timestamp="1510563820111">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="12" />
-        <mark key="." line="42" column="12" />
-        <mark key="^" line="42" column="12" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/views.py" timestamp="1500432312813">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="33" />
@@ -346,10 +318,6 @@
       </file>
       <file name="$USER_HOME$/streamparse/apache/src/bolts/split.py" timestamp="1510563537558">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="42" column="15" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="42" column="15" />
       </file>
       <file name="/PythonVerboseRegExp Fragment (split.py:241).regexp" timestamp="1510563120383">
         <mark key="[" line="0" column="0" />
@@ -360,12 +328,6 @@
         <mark key="]" line="10" column="18" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" timestamp="1510563640233">
-        <mark key="[" line="33" column="47" />
-        <mark key="]" line="33" column="47" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/update.html" timestamp="1507889851468">
         <mark key="'" line="0" column="0" />
