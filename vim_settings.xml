@@ -72,11 +72,11 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tdd/blog.py" timestamp="1516874386830">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="$USER_HOME$/workspace/tdd/blog.py" timestamp="1516878267477">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/app.py" timestamp="1508386025289">
         <mark key="[" line="18" column="44" />
@@ -258,11 +258,10 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516875394053">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516878250972">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
@@ -271,7 +270,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1516870836242">
+      <file name="/Python Console" timestamp="1516876694349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -467,6 +466,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/tdd/tests/integration/test_blog.py" timestamp="1516878594249">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/templates/model_test.html" timestamp="1508226646941">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="71" />
@@ -564,8 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="2" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="5" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
@@ -664,13 +667,15 @@
       <jump line="21" column="47" filename="$USER_HOME$/streamparse/apache/src/bolts/zadd.py" />
       <jump line="4" column="3" filename="$USER_HOME$/streamparse/apache_flask/app.py" />
       <jump line="7" column="0" filename="$USER_HOME$/streamparse/apache_flask/app.py" />
+      <jump line="17" column="49" filename="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" />
+      <jump line="6" column="63" filename="$USER_HOME$/workspace/tdd/tests/integration/test_blog.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiID0gQmxvZygnVGVzdCcsICdUZXN0IEF1dGhvcicpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'CTY_MONTH'</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>KEY</text>
@@ -694,28 +699,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBqc29uKHNlbGYpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2pzb24oc2VsZik6CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3RpdGxlJzogc2VsZi50aXRsZSwKICAgICAgICAgICAgJ2F1dGhvcic6IHNlbGYuYXV0aG9yLAogICAgICAgICAgICAncG9zdHMnOiBbcG9zdC5qc29uKCkgZm9yIHBvc3QgaW4gc2VsZi5wb3N0c10KICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9wb3N0KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gUG9zdCgnVGVzdCcsICdUZXN0JykK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gUG9zdCgnVGVzdCcsICdUZXN0IENvbnRlbnQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCwgKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAndGl0bGUnOiBzZWxmLnRpdGxlLAogICAgICAgICAgICAnYXV0aG9yJzogc2VsZi5hdXRob3IsCiAgICAgICAgICAgICdwb3N0cyc6IFtwb3N0Lmpzb24oKSBmb3IgcG9zdCBpbiBzZWxmLnBvc3RzXQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2pzb24oc2VsZik6CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3RpdGxlJzogc2VsZi50aXRsZSwKICAgICAgICAgICAgJ2F1dGhvcic6IHNlbGYuYXV0aG9yLAogICAgICAgICAgICAncG9zdHMnOiBbcG9zdC5qc29uKCkgZm9yIHBvc3QgaW4gc2VsZi5wb3N0c10KICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -771,8 +776,8 @@
         <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
