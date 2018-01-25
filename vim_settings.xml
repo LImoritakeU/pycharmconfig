@@ -258,11 +258,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516874756841">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="38" />
+      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516875394053">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
