@@ -72,11 +72,11 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tdd/blog.py" timestamp="1516871738811">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/workspace/tdd/blog.py" timestamp="1516874386830">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/app.py" timestamp="1508386025289">
         <mark key="[" line="18" column="44" />
@@ -258,11 +258,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516873186115">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="41" />
+      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516874756841">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
@@ -303,11 +303,11 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/tdd/tests/units/test_post.py" timestamp="1516872661794">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/workspace/tdd/tests/units/test_post.py" timestamp="1516874278385">
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="46" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/templates/index.html.j2" timestamp="1510541467091">
         <mark key="'" line="13" column="65" />
@@ -667,7 +667,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiLmNyZWF0ZV9wb3N0KCdUZXN0JywgJ1Rlc3QgQ29udGVudCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBiID0gQmxvZygnVGVzdCcsICdUZXN0IEF1dGhvcicpCg==</text>
       </register>
       <register name="-" type="4">
         <text>'CTY_MONTH'</text>
@@ -676,10 +676,10 @@
         <text>KEY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiLmNyZWF0ZV9wb3N0KCdUZXN0JywgJ1Rlc3QgQ29udGVudCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBiID0gQmxvZygnVGVzdCcsICdUZXN0IEF1dGhvcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gUG9zdCgnVGVzdCcsICdUZXN0IENvbnRlbnQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -694,25 +694,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCwgKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9wb3N0KHNlbGYpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwID0gUG9zdCgnVGVzdCcsICdUZXN0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChbXSwgYi5wb3N0cykK</text>
+        <text encoding="base64">ICAgICAgICBwID0gUG9zdCgnVGVzdCcsICdUZXN0IENvbnRlbnQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCdUZXN0IEF1dGhvcicsIGIuYXV0aG9yKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCwgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCdUZXN0JywgYi50aXRsZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
