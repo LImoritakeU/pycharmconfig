@@ -34,6 +34,9 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/config.py" timestamp="1517803465228">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/main/errors.py" timestamp="1506603842287">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="20" column="58" />
@@ -51,6 +54,12 @@
         <mark key="]" line="8" column="33" />
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517802140263">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -105,11 +114,11 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517798107468">
-        <mark key="[" line="41" column="83" />
-        <mark key="]" line="42" column="22" />
-        <mark key="^" line="42" column="22" />
-        <mark key="." line="42" column="22" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517803332482">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/en/__init__.py" timestamp="1510042002733">
         <mark key="[" line="64" column="43" />
@@ -437,7 +446,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/tests/test_proxy.py" timestamp="1517796467551">
+      <file name="$USER_HOME$/workspace/async_practice/crawler/tests/test_proxy.py" timestamp="1517800255486">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="22" />
         <mark key="^" line="13" column="22" />
@@ -460,6 +470,13 @@
         <mark key="]" line="23" column="100" />
         <mark key="^" line="15" column="57" />
         <mark key="." line="23" column="101" />
+      </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/fetch.py" timestamp="1517802423621">
+        <mark key="'" line="9" column="39" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="24" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/views.py" timestamp="1500432312813">
         <mark key="[" line="10" column="34" />
@@ -488,9 +505,6 @@
         <mark key="]" line="18" column="69" />
         <mark key="^" line="18" column="69" />
         <mark key="." line="18" column="69" />
-      </file>
-      <file name="$USER_HOME$/streamparse/apache/src/bolts/split.py" timestamp="1510563537558">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/app/extensions.py" timestamp="1510018618739">
         <mark key="'" line="0" column="0" />
@@ -527,10 +541,6 @@
         <mark key="." line="38" column="85" />
         <mark key="^" line="38" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510564371226">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="24" />
-      </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/wtf_quick_bootstrap.html.j2" timestamp="1500431994633">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="24" />
@@ -548,6 +558,12 @@
         <mark key="]" line="6" column="56" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/fetch.py" timestamp="1517800346758">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/todomvc/src/app/app.module.ts" timestamp="1506912606668">
         <mark key="[" line="10" column="0" />
@@ -588,8 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="5" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
@@ -688,10 +702,12 @@
       <jump line="7" column="0" filename="$USER_HOME$/streamparse/apache_flask/app.py" />
       <jump line="17" column="49" filename="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" />
       <jump line="6" column="63" filename="$USER_HOME$/workspace/tdd/tests/integration/test_blog.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/tests/test_proxy.py" />
+      <jump line="9" column="39" filename="$USER_HOME$/workspace/async_practice/crawler/src/fetch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -700,10 +716,10 @@
         <text>KEY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiID0gQmxvZygnVGVzdCcsICdUZXN0IEF1dGhvcicpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNpbXBsZWpzb24gYXMganNvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -718,28 +734,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBqc29uKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2pzb24oc2VsZik6CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3RpdGxlJzogc2VsZi50aXRsZSwKICAgICAgICAgICAgJ2F1dGhvcic6IHNlbGYuYXV0aG9yLAogICAgICAgICAgICAncG9zdHMnOiBbcG9zdC5qc29uKCkgZm9yIHBvc3QgaW4gc2VsZi5wb3N0c10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">YXN5bmMgZGVmIGRvdWJhbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">IlVzZXItQWdlbnQiLCAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBydjozNi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzM2LjAiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBhaW9odHRwIGltcG9ydCBDbGllbnRTZXNzaW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAndGl0bGUnOiBzZWxmLnRpdGxlLAogICAgICAgICAgICAnYXV0aG9yJzogc2VsZi5hdXRob3IsCiAgICAgICAgICAgICdwb3N0cyc6IFtwb3N0Lmpzb24oKSBmb3IgcG9zdCBpbiBzZWxmLnBvc3RzXQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2pzb24oc2VsZik6CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3RpdGxlJzogc2VsZi50aXRsZSwKICAgICAgICAgICAgJ2F1dGhvcic6IHNlbGYuYXV0aG9yLAogICAgICAgICAgICAncG9zdHMnOiBbcG9zdC5qc29uKCkgZm9yIHBvc3QgaW4gc2VsZi5wb3N0c10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -792,11 +808,11 @@
         <entry>1,$s/price:/price=/g</entry>
         <entry encoding="base64">PA==</entry>
         <entry>16,39s/name=/title=/g</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
