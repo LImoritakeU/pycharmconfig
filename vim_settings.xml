@@ -117,11 +117,11 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517812961774">
-        <mark key="[" line="64" column="66" />
-        <mark key="]" line="77" column="10" />
-        <mark key="." line="77" column="10" />
-        <mark key="^" line="77" column="10" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517816743844">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="85" column="26" />
+        <mark key="^" line="85" column="26" />
+        <mark key="." line="85" column="26" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/en/__init__.py" timestamp="1510042002733">
         <mark key="[" line="64" column="43" />
@@ -135,12 +135,6 @@
         <mark key="]" line="17" column="30" />
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
-      </file>
-      <file name="/Python Console" timestamp="1516876694349">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510544245287">
         <mark key="'" line="32" column="21" />
@@ -607,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
       <jump line="17" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
@@ -707,22 +700,23 @@
       <jump line="6" column="63" filename="$USER_HOME$/workspace/tdd/tests/integration/test_blog.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/tests/test_proxy.py" />
       <jump line="9" column="39" filename="$USER_HOME$/workspace/async_practice/crawler/src/fetch.py" />
+      <jump line="64" column="14" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>&quot;马戏之王&quot;</text>
       </register>
       <register name="/" type="4">
         <text>KEY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQodXJsLCB0aW1lb3V0PXRpbWVvdXQsICoqa3dhcmdzKSBhcyByZXM6Cg==</text>
+        <text encoding="base64">ICAgIGlmIHBhcnQxOgogICAgICAgIHJlc3VsdFsncmF0aW5nJ10gPSBwYXJ0MVsncmF0aW5nJ11bJ2F2ZXJhZ2UnXQogICAgICAgIHJlc3VsdFsneWVhciddID0gcGFydDFbJ3llYXInXQogICAgICAgIHJlc3VsdFsnZ2VucmVzJ10gPSBwYXJ0MVsnZ2VucmVzJ10KICAgICAgICByZXN1bHRbJ2NvdW50cmllcyddID0gcGFydDFbJ2NvdW50cmllcyddCiAgICAgICAgcmVzdWx0WydPcmlnaW5hbFRpdGxlJ10gPSBwYXJ0MVsnb3JpZ2luYWxfdGl0bGUnXQogICAgICAgIHJlc3VsdFsnc3VtbWFyeSddID0gcGFydDFbJ3N1bW1hcnknXQoKICAgIGlmIHBhcnQyOgogICAgICAgIHJlc3VsdFsnYXV0aG9yJ10gPSBwYXJ0MlsnYXV0aG9yJ10KICAgICAgICByZXN1bHRbJ3dyaXRlciddID0gcGFydDJbJ2F0dHJzJ11bJ3dyaXRlciddCiAgICAgICAgcmVzdWx0WydjYXN0J10gPSBwYXJ0MlsnYXR0cnMnXVsnY2FzdCddCiAgICAgICAgcmVzdWx0Wyd0YWdzJ10gPSBbdGFnWyduYW1lJ10gZm9yIHRhZyBpbiBwYXJ0MlsndGFncyddXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -737,28 +731,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VhcmNoX3VybCA9ICJodHRwczovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3NlYXJjaD9xPXt0ZXh0fSIKbW92aWVfcGFydDFfdXJsID0gImh0dHA6Ly9hcGkuZG91YmFuLmNvbS92Mi9tb3ZpZS9zdWJqZWN0L3tfaWR9Igptb3ZpZV9wYXJ0Ml91cmwgPSAiaHR0cDovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3tfaWR9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgZGVmIGRvdWJhbihzZXNzaW9uLCBrZXl3b3JkKToKICAgIHJlc3VsdCA9IE9yZGVyZWREaWN0KCkKICAgIHVybCA9IHNlYXJjaF91cmwuZm9ybWF0KHRleHQ9a2V5d29yZCkKICAgIHJlcyA9IGF3YWl0IGZldGNoX2pzb24oc2Vzc2lvbiwgdXJsKQogICAgaWYgbm90IHJlczoKICAgICAgICBsb2cud2FybmluZygiZmFpbCB0byBjcmF3bCB7fSdzIGluZm9ybWF0aW9uIGluIGRvdWJhbiIuZm9ybWF0KGtleXdvcmQpKQogICAgICAgIHJldHVybiBOb25lCgogICAgX2lkID0gcmVzWydzdWJqZWN0cyddWzBdWydpZCddCiAgICBwYXJ0MSA9IGF3YWl0IGZldGNoX2pzb24oc2Vzc2lvbiwgbW92aWVfcGFydDFfdXJsLmZvcm1hdChfaWQ9X2lkKSkKICAgIHBhcnQyID0gYXdhaXQgZmV0Y2hfanNvbihzZXNzaW9uLCBtb3ZpZV9wYXJ0Ml91cmwuZm9ybWF0KF9pZD1faWQpKQoKICAgIGlmIHBhcnQxOgogICAgICAgIHJlc3VsdFsncmF0aW5nJ10gPSBwYXJ0MVsncmF0aW5nJ11bJ2F2ZXJhZ2UnXQogICAgICAgIHJlc3VsdFsneWVhciddID0gcGFydDFbJ3llYXInXQogICAgICAgIHJlc3VsdFsnZ2VucmVzJ10gPSBwYXJ0MVsnZ2VucmVzJ10KICAgICAgICByZXN1bHRbJ2NvdW50cmllcyddID0gcGFydDFbJ2NvdW50cmllcyddCiAgICAgICAgcmVzdWx0WydPcmlnaW5hbFRpdGxlJ10gPSBwYXJ0MVsnb3JpZ2luYWxfdGl0bGUnXQogICAgICAgIHJlc3VsdFsnc3VtbWFyeSddID0gcGFydDFbJ3N1bW1hcnknXQoKICAgIGlmIHBhcnQyOgogICAgICAgIHJlc3VsdFsnYXV0aG9yJ10gPSBwYXJ0MlsnYXV0aG9yJ10KICAgICAgICByZXN1bHRbJ3dyaXRlciddID0gcGFydDJbJ2F0dHJzJ11bJ3dyaXRlciddCiAgICAgICAgcmVzdWx0WydjYXN0J10gPSBwYXJ0MlsnYXR0cnMnXVsnY2FzdCddCiAgICAgICAgcmVzdWx0Wyd0YWdzJ10gPSBbdGFnWyduYW1lJ10gZm9yIHRhZyBpbiBwYXJ0MlsndGFncyddXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VhcmNoX3VybCA9ICJodHRwczovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3NlYXJjaD9xPXt0ZXh0fSIKbW92aWVfcGFydDFfdXJsID0gImh0dHA6Ly9hcGkuZG91YmFuLmNvbS92Mi9tb3ZpZS9zdWJqZWN0L3tfaWR9Igptb3ZpZV9wYXJ0Ml91cmwgPSAiaHR0cDovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3tfaWR9Igo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXJ0MikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIHdpdGggQ2xpZW50U2Vzc2lvbigpIGFzIHNlc3Npb246Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkb3ViYW4oc2Vzc2lvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBwLnBwcmludChqc29uLmR1bXBzKHJlc3VsdCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ19jbGFzcyA9IENvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgIHBwLnBwcmludChqc29uLmR1bXBzKHJlc3VsdCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQ3Jhd2xlcihvYmplY3QpOgo=</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -814,8 +808,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
