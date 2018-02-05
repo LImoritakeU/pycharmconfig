@@ -117,11 +117,11 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517804261824">
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="56" column="16" />
-        <mark key="^" line="56" column="16" />
-        <mark key="." line="56" column="16" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517805042430">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/en/__init__.py" timestamp="1510042002733">
         <mark key="[" line="64" column="43" />
@@ -474,12 +474,12 @@
         <mark key="^" line="15" column="57" />
         <mark key="." line="23" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/fetch.py" timestamp="1517804317927">
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/fetch.py" timestamp="1517804383422">
         <mark key="'" line="9" column="39" />
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="19" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="28" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/views.py" timestamp="1500432312813">
         <mark key="[" line="10" column="34" />
@@ -737,28 +737,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VhcmNoX3VybCA9ICJodHRwczovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3NlYXJjaD9xPXt0ZXh0fSIKbW92aWVfcGFydDFfdXJsID0gImh0dHA6Ly9hcGkuZG91YmFuLmNvbS92Mi9tb3ZpZS9zdWJqZWN0L3tfaWR9Igptb3ZpZV9wYXJ0Ml91cmwgPSAiaHR0cDovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3tfaWR9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ19jbGFzcyA9IENvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgIGFzeW5jIHdpdGggQ2xpZW50U2Vzc2lvbigpIGFzIHNlc3Npb246Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQ3Jhd2xlcihvYmplY3QpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgVXNlckRpY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ19jbGFzcyA9IENvbmZpZygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQ29uZmlnKFVzZXJEaWN0KToK</text>
+        <text encoding="base64">Y2xhc3MgQ3Jhd2xlcihvYmplY3QpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgVXNlckRpY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -813,9 +813,9 @@
         <entry>16,39s/name=/title=/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz48</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
