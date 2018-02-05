@@ -18,11 +18,11 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/test.py" timestamp="1517822376088">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/test.py" timestamp="1517823355200">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="/a.dummy" timestamp="1516872430772">
         <mark key="[" line="0" column="0" />
@@ -123,11 +123,11 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517821278319">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="50" column="19" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517823020544">
+        <mark key="[" line="98" column="40" />
+        <mark key="]" line="98" column="30" />
+        <mark key="." line="98" column="30" />
+        <mark key="^" line="98" column="30" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/utils/faker_providers/products/en/__init__.py" timestamp="1510042002733">
         <mark key="[" line="64" column="43" />
@@ -715,7 +715,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVzLCBfID0gbG9vcC5ydW5fdW50aWxfY29tcGxldGUod2FpdF9jb3JvLmZldGNoKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24gPSBzZXNzaW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;马戏之王&quot;</text>
@@ -727,7 +727,7 @@
         <text encoding="base64">ICVzIiAlIHRpbWUudGltZSgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzLCBfID0gbG9vcC5ydW5fdW50aWxfY29tcGxldGUod2FpdF9jb3JvLmZldGNoKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24gPSBzZXNzaW9uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -742,28 +742,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2FpdF9jb3JvID0gYXN5bmNpby53YWl0KHRvZG9zKQo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIHdpdGggQ2xpZW50U2Vzc2lvbigpIGFzIHNlc3Npb246Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW0RvdWJhbkNyYXdsZXIoc2Vzc2lvbiwgKipuKS5mZXRjaCgpIGZvciBuIGluIGtleXdvcmRzXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">ICAgIGFzeW5jIHdpdGggQ2xpZW50U2Vzc2lvbiBhcyBzZXNzaW9uOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgZGVmIHJlcXVlc3QoKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">bG9vcC5jbG9zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkK</text>
+        <text encoding="base64">bG9vcC5ydW5fdW50aWxfY29tcGxldGUocmVxdWVzdCgpaykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0X2Nvcm8gPSBhc3luY2lvLndhaXQodG9kb3MpCiAgICAgICAgcmVzLCBfID0gbG9vcC5ydW5fdW50aWxfY29tcGxldGUod2FpdF9jb3JvLmZldGNoKCkpCiAgICAgICAgbG9vcC5jbG9zZSgpCg==</text>
+        <text encoding="base64">dGFza3MgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9vcCA9IGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -819,8 +819,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
