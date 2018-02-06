@@ -64,11 +64,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517802140263">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517890071584">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="35" column="10" />
+        <mark key="." line="35" column="10" />
+        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -808,7 +808,6 @@
         <entry>KEY</entry>
       </history-search>
       <history-cmd>
-        <entry>s/{{ fragment }}//g</entry>
         <entry>s/\{\{ fragment \}\}//g</entry>
         <entry>s/{{ fragment  }}//g</entry>
         <entry>67</entry>
@@ -824,9 +823,10 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz46Pg==</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
