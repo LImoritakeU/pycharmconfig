@@ -64,12 +64,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517903440860">
-        <mark key="'" line="47" column="28" />
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="48" column="78" />
-        <mark key="." line="48" column="78" />
-        <mark key="^" line="48" column="78" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517904873510">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="63" column="27" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -143,11 +142,11 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1517903280182">
+      <file name="/Python Console" timestamp="1517903922582">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510544245287">
         <mark key="'" line="32" column="21" />
@@ -723,10 +722,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcyA9IHVybGxpYi5wYXJzZS51cmxlbmNvZGUoc2VsZi5wYXJhbXMsIGVuY29kaW5nPSdCSUc1JywpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dict(params)</text>
+        <text>atmovie.fetch()</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
@@ -735,7 +734,7 @@
         <text encoding="base64">ICVzIiAlIHRpbWUudGltZSgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcyA9IHVybGxpYi5wYXJzZS51cmxlbmNvZGUoc2VsZi5wYXJhbXMsIGVuY29kaW5nPSdCSUc1JywpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -750,28 +749,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgZGVmIG1haW4oKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF0bW92aWUgPSBBdG1vdmllQ3Jhd2xlcign5rG65Yud5aWz546LJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cC4K</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIENsaWVudFNlc3Npb24oKSBhcyBzZXNzaW9uOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXJsbGliLnBhcnNlLnVybGVuY29kZShwYXJhbXMsIGVuY29kaW5nPSdCSUc1JykK</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIENsaWVudFNlc3Npb24gYXMgc2Vzc2lvbjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHBhcnNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBheWxvYWRbJ3NlYXJjaF90ZXJtJ10gPSBrZXl3b3JkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBheWxvYWQgPSBkaWN0KHBhcmFtcykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      <register name="9" type="4">
+        <text>params = {
+    &quot;action&quot;: &quot;home&quot;,
+    &quot;fr&quot;: &quot;search&quot;,
+    &quot;search&quot;: &quot;送出查詢&quot;,
+    &quot;search_term&quot;: &quot;&quot;,
+    &quot;type&quot;: &quot;all&quot;
+}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -812,7 +817,6 @@
       <history-cmd>
         <entry>67</entry>
         <entry>w'</entry>
-        <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry>1,$s/{title:/Product(/g</entry>
         <entry>1,$s/Product(/Product(name=/g</entry>
         <entry>1,$s/Product(name=/Product(id=, name=/g</entry>
@@ -821,14 +825,15 @@
         <entry encoding="base64">PA==</entry>
         <entry>16,39s/name=/title=/g</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz46Pg==</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>Q</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz48PDw8</entry>
         <entry encoding="base64">JzwsJz48PDw=</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+Pg==</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">JzwsJz48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
