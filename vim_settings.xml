@@ -64,11 +64,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517890208181">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="31" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517902441097">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="66" column="27" />
+        <mark key="^" line="66" column="27" />
+        <mark key="." line="66" column="27" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -141,12 +142,6 @@
         <mark key="]" line="17" column="30" />
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
-      </file>
-      <file name="/Python Console" timestamp="1517885093797">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" timestamp="1510544245287">
         <mark key="'" line="32" column="21" />
@@ -313,7 +308,8 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1517890170375">
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1517902405988">
+        <mark key="'" line="90" column="0" />
         <mark key="[" line="25" column="30" />
         <mark key="]" line="25" column="29" />
         <mark key="^" line="25" column="29" />
@@ -618,37 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="17" column="34" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="0" column="20" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
       <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
       <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
@@ -718,13 +683,44 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/tests/test_proxy.py" />
       <jump line="9" column="39" filename="$USER_HOME$/workspace/async_practice/crawler/src/fetch.py" />
       <jump line="64" column="14" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" />
+      <jump line="1" column="32" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="59" column="30" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;奇迹男孩&quot;, &quot;忌日快乐&quot;</text>
+        <text>urllib.parse.urlencode</text>
       </register>
       <register name="/" type="4">
         <text>KEY</text>
@@ -733,7 +729,7 @@
         <text encoding="base64">ICVzIiAlIHRpbWUudGltZSgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -751,25 +747,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHAgPSBQcmV0dHlQcmludGVyKGluZGVudD0yKQo=</text>
+        <text encoding="base64">dXJsbGliLnBhcnNlLnVybGVuY29kZShwYXJhbXMsIGVuY29kaW5nPSdCSUc1JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHBhcnNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzKCoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB3aXRoX29wdGlvbnMoY2xzLCAqKmt3YXJncyk6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -808,8 +804,6 @@
         <entry>KEY</entry>
       </history-search>
       <history-cmd>
-        <entry>s/\{\{ fragment \}\}//g</entry>
-        <entry>s/{{ fragment  }}//g</entry>
         <entry>67</entry>
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
@@ -822,12 +816,14 @@
         <entry>16,39s/name=/title=/g</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz46Pg==</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz48PDw8</entry>
+        <entry encoding="base64">JzwsJz48PDw=</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
