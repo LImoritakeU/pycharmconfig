@@ -64,11 +64,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517890071584">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-        <mark key="^" line="35" column="10" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517890208181">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -313,11 +313,11 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1517889066515">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1517890170375">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" timestamp="1510557076902">
         <mark key="'" line="32" column="0" />
@@ -721,7 +721,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>, &quot;奇迹男孩&quot;, &quot;忌日快乐&quot;</text>
@@ -733,7 +733,7 @@
         <text encoding="base64">ICVzIiAlIHRpbWUudGltZSgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -748,25 +748,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHAgPSBQcmV0dHlQcmludGVyKGluZGVudD0yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzKCoqa3dhcmdzKQo=</text>
+        <text encoding="base64">cHAgPSBQcmV0dHlQcmludGVyKGluZGVudD0yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB3aXRoX29wdGlvbnMoY2xzLCAqKmt3YXJncyk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzKCoqa3dhcmdzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB3aXRoX29wdGlvbnMoY2xzLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
