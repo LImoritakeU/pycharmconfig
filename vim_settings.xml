@@ -64,11 +64,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517909346952">
-        <mark key="[" line="59" column="43" />
-        <mark key="]" line="29" column="51" />
-        <mark key="^" line="29" column="51" />
-        <mark key="." line="29" column="51" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517910150589">
+        <mark key="[" line="61" column="14" />
+        <mark key="]" line="61" column="11" />
+        <mark key="." line="61" column="11" />
+        <mark key="^" line="61" column="11" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -722,7 +722,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCmxvZy5hZGRIYW5kbGVyKGxvZ2dpbmcuTnVsbEhhbmRsZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW92aWVfcGFnZSA9IGF3YWl0IHNlc3Npb24uZ2V0KG1vdmllX3VybC5mb3JtYXQoX2lkPV9pZCkpZGQK</text>
       </register>
       <register name="-" type="4">
         <text>'//blockquote/header/a[@href]'</text>
@@ -734,7 +734,7 @@
         <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCmxvZy5hZGRIYW5kbGVyKGxvZ2dpbmcuTnVsbEhhbmRsZXIoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW92aWVfcGFnZSA9IGF3YWl0IHNlc3Npb24uZ2V0KG1vdmllX3VybC5mb3JtYXQoX2lkPV9pZCkpZGQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -749,28 +749,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VhcmNoX3Jlc3VsdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyB4cGF0aHMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VhcmNoX3Jlc3VsdF94cGF0aCA9ICIvL2Jsb2NrcXVvdGUvb2wvbGlbMV0vYS9AaHJlZiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2VhcmNoX3Jlc3VsdF94cGF0aCA9ICIvL2Jsb2NrcXVvdGUvb2wvbGlbMV0vYS9AaHJlZiIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Jy8vYmxvY2txdW90ZS9oZWFkZXIvYVtAaHJlZl0nCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX2lkKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyB4cGF0aHMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VhcmNoX3Jlc3VsdF94cGF0aCA9ICcvL2Jsb2NrcXVvdGUvaGVhZGVyL2FbQGhyZWZdJwo=</text>
+        <text encoding="base64">c2VhcmNoX3Jlc3VsdF94cGF0aCA9ICIvL2Jsb2NrcXVvdGUvb2wvbGlbMV0vYS9AaHJlZiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
