@@ -64,11 +64,10 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517910793017">
-        <mark key="[" line="81" column="12" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="80" column="3" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1517914985165">
+        <mark key="[" line="86" column="21" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -619,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
       <jump line="36" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="29" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="27" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
@@ -719,22 +717,23 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
+      <jump line="85" column="35" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX2Jsb2NrLmZpbmRfYWxsKCd1bCcpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'//blockquote/header/a[@href]'</text>
+        <text>data_block.xpath('//ul/li')</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCmxvZy5hZGRIYW5kbGVyKGxvZ2dpbmcuTnVsbEhhbmRsZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGVsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX2Jsb2NrLmZpbmRfYWxsKCd1bCcpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -749,33 +748,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobW92aWVfcGFnZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGRhdGFfYmxvY2spKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV0cmVlLnRvc3RyaW5nKGVsZSwgZW5jb2Rpbmc9IlVURi04IiwgcHJldHR5X3ByaW50PVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIl9pZD17fSIuZm9ybWF0KF9pZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV0cmVlLnRvc3RyaW5nKGVsZSwgZW5jb2Rpbmc9IlVURi04IiwgcHJldHR5X3ByaW50PVRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJfaWQ9e30iLmZvcm1hdChfaWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV0cmVlLnRvc3RyaW5nKGVsZSwgZW5jb2Rpbmc9IlVURi04IiwgcHJldHR5X3ByaW50PVRydWUpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>(
-                etree.HTML(search_result)
-                .xpath(x_path['search_result'])[0]
-                .get('href')
-                .split('/')[-2]
-            )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxlID0gZXRyZWUudG9zdHJpbmcoZWxlLCBlbmNvZGluZz0iVVRGLTgiLCBwcmV0dHlfcHJpbnQ9VHJ1ZSkuZGVjb2RlKCdVVEYtOCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92aWVfcGFnZSA9IGF3YWl0IHNlc3Npb24uZ2V0KG1vdmllX3VybC5mb3JtYXQoX2lkPV9pZCkpZGQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX2Jsb2NrKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VhcmNoX3Jlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX2Jsb2NrID0gZXRyZWUuSFRNTChwYWdlKS54cGF0aChwYXR0ZXJuWydkYXRhX2Jsb2NrJ10pWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
