@@ -135,11 +135,10 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1517993567581">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1517995335113">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
@@ -148,12 +147,14 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1517992497032">
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1517996868593">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1517903922582">
+      <file name="/Python Console" timestamp="1517996295767">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -636,8 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="27" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
@@ -736,10 +735,12 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="85" column="35" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwMV9zdGVwMlsnd3JpdGVyJ10gPSBwMV9zdGVwMi5wb3AobXBbJ3dyaXRlciddKQogICAgICAgICAgICAgICAgICAgIHAxX3N0ZXAyWydhY3RvciddID0gcDFfc3RlcDIucG9wKG1wWydhY3RvciddKQo=</text>
+        <text encoding="base64">ICAgICAgICByID0gcmVxdWVzdHMuZ2V0KHNlYXJjaF91cmwuZm9ybWF0KHNlbGYua2V5d29yZCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;&quot;.join(string.split(&quot;\t&quot;))</text>
@@ -751,7 +752,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGVsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwMV9zdGVwMlsnd3JpdGVyJ10gPSBwMV9zdGVwMi5wb3AobXBbJ3dyaXRlciddKQogICAgICAgICAgICAgICAgICAgIHAxX3N0ZXAyWydhY3RvciddID0gcDFfc3RlcDIucG9wKG1wWydhY3RvciddKQo=</text>
+        <text encoding="base64">ICAgICAgICByID0gcmVxdWVzdHMuZ2V0KHNlYXJjaF91cmwuZm9ybWF0KHNlbGYua2V5d29yZCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -766,28 +767,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc3VsdCA9IE5vbmUK</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgVXNlckRpY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzZWxlbml1bSBpbXBvcnQgd2ViZHJpdmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZHJpdmVyID0gd2ViZHJpdmVyLkNocm9tZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wYWdlID0gbW92aWVfcGFnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIi0tLS0tLS0tIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZWxlLnRleHQpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXQoc2VsZiwga2V5LCB2YWx1ZSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX2Jsb2NrLmZpbmRfYWxsKCd1bCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwMV9zdGVwMlsnd3JpdGVyJ10gPSBwMV9zdGVwMi5wb3AobXBbJ3dyaXRlciddKQogICAgICAgICAgICAgICAgICAgIHAxX3N0ZXAyWydhY3RvciddID0gcDFfc3RlcDIucG9wKG1wWydhY3RvciddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
