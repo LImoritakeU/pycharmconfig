@@ -562,10 +562,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="/code.py" timestamp="1517979940777">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/code.py" timestamp="1517981274411">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/macros.html.j2" timestamp="1500433133050">
         <mark key="[" line="0" column="6" />
