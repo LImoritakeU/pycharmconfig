@@ -562,8 +562,10 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="/code.py" timestamp="1517977783157">
+      <file name="/code.py" timestamp="1517979940777">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/forms_templates/app/blueprints/demo_forms/templates/macros.html.j2" timestamp="1500433133050">
         <mark key="[" line="0" column="6" />
@@ -724,11 +726,11 @@
       <jump line="85" column="35" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wYWdlID0gbW92aWVfcGFnZQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;.join(string.split(&quot;\t&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text>data_block.xpath('//ul/li')</text>
+        <text>&quot;&quot;.join(string.split(&quot;\t&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
