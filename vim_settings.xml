@@ -147,14 +147,14 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1517998424737">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="27" column="7" />
-        <mark key="^" line="27" column="7" />
-        <mark key="." line="27" column="7" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1517998645217">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1517996295767">
+      <file name="/Python Console" timestamp="1518054977178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
