@@ -147,9 +147,9 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1518074292558">
-        <mark key="'" line="123" column="4" />
-        <mark key="[" line="92" column="14" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1518075105702">
+        <mark key="'" line="122" column="4" />
+        <mark key="[" line="92" column="16" />
         <mark key="]" line="92" column="15" />
         <mark key="." line="92" column="15" />
         <mark key="^" line="92" column="15" />
