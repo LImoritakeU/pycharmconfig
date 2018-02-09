@@ -70,12 +70,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518158858451">
-        <mark key="'" line="59" column="34" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="114" column="20" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518160969426">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -101,6 +100,9 @@
         <mark key="]" line="26" column="3" />
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1518161164406">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code_fragment.cls" timestamp="1508320830493">
         <mark key="[" line="0" column="0" />
@@ -142,11 +144,11 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518149980713">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="48" column="23" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518160629617">
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="33" column="53" />
+        <mark key="^" line="33" column="53" />
+        <mark key="." line="33" column="53" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
@@ -162,7 +164,7 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518158875178">
+      <file name="/Python Console" timestamp="1518160632631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -645,28 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="57" column="26" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="33" column="21" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="32" column="21" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/user_history.py" />
-      <jump line="81" column="7" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="34" column="13" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="75" column="21" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/product_category_count.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="15" column="11" filename="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" />
-      <jump line="32" column="13" filename="$USER_HOME$/bluetech/web/storm_server/src/spouts/users_navigation.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
-      <jump line="38" column="17" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="27" column="23" filename="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" />
       <jump line="32" column="0" filename="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" />
       <jump line="5" column="9" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
@@ -708,13 +688,9 @@
       <jump line="1" column="32" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="59" column="30" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
@@ -725,7 +701,6 @@
       <jump line="83" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
-      <jump line="44" column="58" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="55" column="45" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="47" column="28" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
@@ -745,19 +720,46 @@
       <jump line="37" column="4" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" />
       <jump line="6" column="22" filename="$USER_HOME$/workspace/async_practice/crawler/src/header.py" />
       <jump line="59" column="34" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="44" column="25" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="70" column="25" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="30" column="21" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="100" column="23" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="111" column="28" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="60" column="21" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="73" column="40" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="88" column="40" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="90" column="40" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="8" column="23" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="41" column="12" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tep1 = &quot;&quot;.join(text.split('\t'))</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>self.</text>
+        <text>payload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwMSA9ICIiLmpvaW4odGV4dC5zcGxpdCgnXHQnKSkKICAgICAgICBzdGVwMiA9ICIiLmpvaW4oc3RlcDEuc3BsaXQoJ1xyJykpCiAgICAgICAgc3RlcDMgPSAiOiIuam9pbihzdGVwMi5zcGxpdCgn77yaJykpCiAgICAgICAgc3RlcDQgPSBzdGVwMy5zcGxpdCgnXG4nKQogICAgICAgIHN0ZXA1ID0gbGlzdChmaWx0ZXIobGFtYmRhIHg6IHggIT0gIiIsIHN0ZXA0KSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7ImFjdGlvbiI6ICJob21lIiwgImZyIjogInNlYXJjaC1ob21lcGFnZSIsICJlbmMiOiAiVVRGLTgiLCAidHlwZSI6ICJhbGwiLAogICAgICAgICAgICAgICAgICAnc2VhcmNoX3Rlcm0nOiBrZXl3b3JkLCAieCI6ICI0MyIsICJ5IjogIjQxIn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -778,34 +780,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcGFydDEoc3RlcDUpLCBzZWxmLl9wYXJ0MihzdGVwNSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfdXJsZW5jb2RlKHNlbGYsIGtleXdvcmQpOgogICAgICAgIHBhcmFtcyA9IHsKICAgICAgICAgICAgImFjdGlvbiI6ICJob21lIiwKICAgICAgICAgICAgImZyIjogInNlYXJjaC1ob21lcGFnZSIsCiAgICAgICAgICAgICJlbmMiOiAiVVRGLTgiLAogICAgICAgICAgICAidHlwZSI6ICJhbGwiLAogICAgICAgICAgICAic2VhcmNoX3Rlcm0iOiBrZXl3b3JkLAogICAgICAgICAgICAieCI6ICI0MyIsCiAgICAgICAgICAgICJ5IjogIjQxIgogICAgICAgIH0KICAgICAgICByZXR1cm4gcGFyc2UudXJsZW5jb2RlKHBhcmFtcywgZW5jb2Rpbmc9J1VURi04JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGF5bG9hZCA9IHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwNSA9IGxpc3QoZmlsdGVyKGxhbWJkYSB4OiB4ICE9ICIiLCBzdGVwNCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwNCA9IHN0ZXAzLnNwbGl0KCdcbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwMyA9ICI6Ii5qb2luKHN0ZXAyLnNwbGl0KCfvvJonKSkK</text>
+        <text encoding="base64">IyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwMiA9ICIiLmpvaW4oc3RlcDEuc3BsaXQoJ1xyJykpCg==</text>
+        <text encoding="base64">IyAgICAgIlVzZXItQWdlbnQiOiAiTW96aWxsYS81LjAgKFgxMTsgRmVkb3JhOyBMaW51eCB4ODZfNjQ7IHJ2OjU3LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNTcuMCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwMSA9ICIiLmpvaW4odGV4dC5zcGxpdCgnXHQnKSkK</text>
+        <text encoding="base64">IyAgICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self.</last-search>
+      <last-search>payload</last-search>
       <last-offset />
-      <last-pattern>self.</last-pattern>
+      <last-pattern>payload</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -813,12 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{{ fragment }}</entry>
-        <entry>\{\{ fragment \}\}</entry>
-        <entry>{{ fragment  }}</entry>
-        <entry>{title:</entry>
-        <entry>Product(</entry>
-        <entry>Product(name=</entry>
         <entry>category:</entry>
         <entry>price:</entry>
         <entry encoding="base64">XDwoXD4=</entry>
@@ -833,6 +829,12 @@
         <entry>parse</entry>
         <entry>self</entry>
         <entry>self.</entry>
+        <entry>kw</entry>
+        <entry>movie_url</entry>
+        <entry>cast_url</entry>
+        <entry>pattern</entry>
+        <entry>headers</entry>
+        <entry>payload</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Product(/Product(name=/g</entry>
@@ -847,13 +849,13 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz48PDw8</entry>
         <entry encoding="base64">JzwsJz48PDw=</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>^,$s/self//g</entry>
         <entry>1,15s/self//g</entry>
         <entry>1,15s/self.//g</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry encoding="base64">JzwsJz48</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
