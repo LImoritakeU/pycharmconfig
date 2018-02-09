@@ -141,12 +141,12 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518146133566">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="16" column="119" />
-        <mark key="." line="16" column="119" />
-        <mark key="^" line="16" column="119" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518146797707">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="17" column="119" />
+        <mark key="." line="17" column="119" />
+        <mark key="^" line="17" column="119" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
