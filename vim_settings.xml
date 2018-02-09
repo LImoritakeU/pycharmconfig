@@ -141,10 +141,12 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518144271831">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518146133566">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="16" column="119" />
+        <mark key="." line="16" column="119" />
+        <mark key="^" line="16" column="119" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
@@ -643,7 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="24" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="22" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
       <jump line="18" column="0" filename="$USER_HOME$/bluetech/web/storm_server/src/bolts/get_category.py" />
@@ -743,22 +744,23 @@
       <jump line="85" column="35" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" />
       <jump line="37" column="4" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" />
+      <jump line="6" column="22" filename="$USER_HOME$/workspace/async_practice/crawler/src/header.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiUmVmZXJlciI6ICJodHRwOi8vd3d3LmltZGIuY29tLyIsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fb3V0cHV0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>self.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhlYWRlcnMgPSB7CiAgICAgICAgIkFjY2VwdCI6ICJ0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLCovKjtxPTAuOCIsCiAgICAgICAgIkFjY2VwdC1FbmNvZGluZyI6ICJnemlwLCBkZWZsYXRlLCBzZGNoIiwKICAgICAgICAiQWNjZXB0LUxhbmd1YWdlIjogInpoLVRXLHpoO3E9MC44LGVuLVVTO3E9MC42LGVuO3E9MC40IiwKICAgICAgICAiSG9zdCI6ICJ3d3cuaW1kYi5jb20iLAogICAgICAgICJSZWZlcmVyIjogImh0dHA6Ly93d3cuaW1kYi5jb20vIiwKICAgICAgICAiVXNlci1BZ2VudCI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80My4wLjIzNTcuMTI0IFNhZmFyaS81MzcuMzYiLAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiUmVmZXJlciI6ICJodHRwOi8vd3d3LmltZGIuY29tLyIsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fb3V0cHV0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -773,46 +775,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJfYWdlbnQgPSB1c2VyX2FnZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuaGVhZGVyIGltcG9ydCBIZWFkZXIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZmVyZXIgPSByZWZlcmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhvc3QgPSBob3N0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvb2tpZSA9IGNvb2tpZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihJbWRiSGVhZGVyKS5fX2luaXRfXygqKmt3YXJncykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3Rpb24gPSBjb25uZWN0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqKmt3YXJncyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjY2VwdF9sYW5ndWFnZSA9IGFjY2VwdF9sYW5ndWFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgSW1kYkhlYWRlcihIZWFkZXIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjY2VwdF9lbmNvZGluZyA9IGFjY2VwdF9lbmNvZGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>self.</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
-      <last-replace>title=</last-replace>
-      <last-substitute>name=</last-substitute>
+      <last-pattern>self.</last-pattern>
+      <last-replace />
+      <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>generate_</entry>
-        <entry>generate_confirmation</entry>
         <entry>{{ fragment }}</entry>
         <entry>\{\{ fragment \}\}</entry>
         <entry>{{ fragment  }}</entry>
@@ -831,11 +831,10 @@
         <entry>logger</entry>
         <entry>KEY</entry>
         <entry>parse</entry>
+        <entry>self</entry>
+        <entry>self.</entry>
       </history-search>
       <history-cmd>
-        <entry>67</entry>
-        <entry>w'</entry>
-        <entry>1,$s/{title:/Product(/g</entry>
         <entry>1,$s/Product(/Product(name=/g</entry>
         <entry>1,$s/Product(name=/Product(id=, name=/g</entry>
         <entry>1,$s/category:/category=/g</entry>
@@ -852,6 +851,9 @@
         <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>W</entry>
+        <entry>^,$s/self//g</entry>
+        <entry>1,15s/self//g</entry>
+        <entry>1,15s/self.//g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
