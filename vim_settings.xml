@@ -160,12 +160,12 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1518416748979">
-        <mark key="'" line="42" column="31" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="31" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="31" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1518418992600">
+        <mark key="'" line="43" column="31" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="30" />
       </file>
       <file name="/Python Console" timestamp="1518403612643">
         <mark key="[" line="0" column="0" />
@@ -185,6 +185,12 @@
         <mark key="]" line="26" column="47" />
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawler.py" timestamp="1518418941920">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/tdd/tests/units/test_post.py" timestamp="1516874278385">
         <mark key="[" line="6" column="63" />
@@ -753,7 +759,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMgPSBoZWFkZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
         <text>parser.full_cast(full_credits_page)</text>
@@ -761,11 +767,11 @@
       <register name="/" type="4">
         <text>payload</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;http://api.douban.com/v2/movie/{}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByID0gcmVxdWVzdHMuZ2V0KHVybCwgaGVhZGVycz1zZWxmLmN1c3RvbV9oZWFkZXIpCiAgICAgICAgaWYgci5zdGF0dXNfY29kZSA9PSAyMDA6CiAgICAgICAgICAgIHJldHVybiByLnRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMgPSBoZWFkZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -780,28 +786,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMgPSBoZWFkZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJIb3N0IjogImFwaS5kb3ViYW4uY29tIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICJIb3N0IjogImFwaS5kb3ViYW4uY29tIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiVXNlci1BZ2VudCI6ICJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2OjU5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNTkuMCIsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiUmVmZXJlciI6ICJodHRwczovL3d3dy5yb3R0ZW50b21hdG9lcy5jb20vIiwK</text>
+        <text encoding="base64">ICAgICAgICAiVXNlci1BZ2VudCI6ICJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2OjU5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNTkuMCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwK</text>
+        <text encoding="base64">ICAgICAgICAiUmVmZXJlciI6ICJodHRwczovL3d3dy5yb3R0ZW50b21hdG9lcy5jb20vIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiQWNjZXB0LUxhbmd1YWdlIjogImVuLVVTLGVuO3E9MC41IiwK</text>
+        <text encoding="base64">ICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiQWNjZXB0LUVuY29kaW5nIjogImd6aXAsIGRlZmxhdGUsIGJyIiwK</text>
+        <text encoding="base64">ICAgICAgICAiQWNjZXB0LUxhbmd1YWdlIjogImVuLVVTLGVuO3E9MC41IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -857,9 +863,9 @@
         <entry>1,15s/self.//g</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
