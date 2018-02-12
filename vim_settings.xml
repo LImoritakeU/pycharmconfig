@@ -71,12 +71,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518422131056">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="57" column="34" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518425931034">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="58" column="21" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -187,11 +186,11 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawler.py" timestamp="1518422110379">
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="31" column="3" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawler.py" timestamp="1518425970204">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/tdd/tests/units/test_post.py" timestamp="1516874278385">
         <mark key="[" line="6" column="63" />
@@ -663,7 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
       <jump line="8" column="0" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
       <jump line="17" column="0" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
       <jump line="21" column="0" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
@@ -763,13 +761,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parser.full_cast(full_credits_page)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>payload</text>
@@ -793,28 +792,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICByZXR1cm4gYXdhaXQgcmVzLnRleHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5oZWFkZXJzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQodXJsKSBhcyByZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChfaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgYXN5bmMgZGVmIF9nZXQoc2VsZiwgc2Vzc2lvbiwgdXJsKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnBhZ2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyLnRleHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHsKICAgICAgICAic2VhcmNoIjogImh0dHA6Ly9zZWFyY2guYXRtb3ZpZXMuY29tLnR3L3NlYXJjaC8iLAogICAgICAgICJtb3ZpZV9pbmZvIjogImh0dHA6Ly93d3cuYXRtb3ZpZXMuY29tLnR3L21vdmllL3tfaWR9IiwKICAgICAgICAiY2FzdF9pbmZvIjogImh0dHA6Ly9hcHAyLmF0bW92aWVzLmNvbS50dy9maWxtL2Nhc3Qve19pZH0iLAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc3VsdCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChoZWFkZXJzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
+        <text encoding="base64">ICAgICAgICAuMTUxODI3OTczOQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -853,7 +852,6 @@
         <entry>payload</entry>
       </history-search>
       <history-cmd>
-        <entry>1,$s/Product(/Product(name=/g</entry>
         <entry>1,$s/Product(name=/Product(id=, name=/g</entry>
         <entry>1,$s/category:/category=/g</entry>
         <entry>1,$s/price:/price=/g</entry>
@@ -869,9 +867,10 @@
         <entry>1,15s/self//g</entry>
         <entry>1,15s/self.//g</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz48</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
