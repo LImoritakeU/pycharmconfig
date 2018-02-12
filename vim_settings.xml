@@ -70,7 +70,7 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518160969426">
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518401751632">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
         <mark key="^" line="55" column="11" />
@@ -101,8 +101,11 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1518161164406">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1518161508834">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="/code_fragment.cls" timestamp="1508320830493">
         <mark key="[" line="0" column="0" />
@@ -144,11 +147,11 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518160629617">
-        <mark key="[" line="33" column="51" />
-        <mark key="]" line="33" column="53" />
-        <mark key="^" line="33" column="53" />
-        <mark key="." line="33" column="53" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518401911676">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
@@ -335,12 +338,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518147477277">
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518402123027">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="37" />
-        <mark key="^" line="25" column="29" />
-        <mark key="." line="25" column="29" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="57" column="3" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" timestamp="1510557076902">
         <mark key="'" line="32" column="0" />
@@ -750,7 +753,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN0ZXA2ICVzIiAlIHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -758,11 +761,11 @@
       <register name="/" type="4">
         <text>payload</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7ImFjdGlvbiI6ICJob21lIiwgImZyIjogInNlYXJjaC1ob21lcGFnZSIsICJlbmMiOiAiVVRGLTgiLCAidHlwZSI6ICJhbGwiLAogICAgICAgICAgICAgICAgICAnc2VhcmNoX3Rlcm0nOiBrZXl3b3JkLCAieCI6ICI0MyIsICJ5IjogIjQxIn0K</text>
+      <register name="0" type="4">
+        <text>&quot;http://api.douban.com/v2/movie/{}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN0ZXA2ICVzIiAlIHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -777,28 +780,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN0ZXA1ICVzIiAlIHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfdXJsZW5jb2RlKHNlbGYsIGtleXdvcmQpOgogICAgICAgIHBhcmFtcyA9IHsKICAgICAgICAgICAgImFjdGlvbiI6ICJob21lIiwKICAgICAgICAgICAgImZyIjogInNlYXJjaC1ob21lcGFnZSIsCiAgICAgICAgICAgICJlbmMiOiAiVVRGLTgiLAogICAgICAgICAgICAidHlwZSI6ICJhbGwiLAogICAgICAgICAgICAic2VhcmNoX3Rlcm0iOiBrZXl3b3JkLAogICAgICAgICAgICAieCI6ICI0MyIsCiAgICAgICAgICAgICJ5IjogIjQxIgogICAgICAgIH0KICAgICAgICByZXR1cm4gcGFyc2UudXJsZW5jb2RlKHBhcmFtcywgZW5jb2Rpbmc9J1VURi04JykK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN0ZXA0ICVzIiAlIHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGF5bG9hZCA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN0ZXAzICVzIiAlIHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN0ZXAyICVzIiAlIHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN0ZXAxICVzIiAlIHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgIlVzZXItQWdlbnQiOiAiTW96aWxsYS81LjAgKFgxMTsgRmVkb3JhOyBMaW51eCB4ODZfNjQ7IHJ2OjU3LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNTcuMCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiLAo=</text>
+        <text encoding="base64">ICAgIF9tb3ZpZV9wYXJ0Ml91cmwgPSAiaHR0cDovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3t9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
