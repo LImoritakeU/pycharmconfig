@@ -58,11 +58,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1518148622430">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="52" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1518404517412">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
         <mark key="[" line="0" column="0" />
@@ -147,11 +148,10 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518401911676">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518404601994">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/topologies/browser_stats.py" timestamp="1510544384161">
         <mark key="'" line="15" column="11" />
@@ -338,12 +338,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518404077196">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-        <mark key="^" line="21" column="54" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518404759546">
+        <mark key="'" line="54" column="65" />
+        <mark key="[" line="52" column="49" />
+        <mark key="]" line="54" column="65" />
+        <mark key="." line="54" column="65" />
+        <mark key="^" line="54" column="65" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" timestamp="1510557076902">
         <mark key="'" line="32" column="0" />
@@ -650,7 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="9" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
       <jump line="32" column="12" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
       <jump line="36" column="19" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
       <jump line="10" column="18" filename="$USER_HOME$/streamparse/apache/src/spouts/consumer.py" />
@@ -705,7 +704,6 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="55" column="45" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="47" column="28" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
@@ -750,10 +748,12 @@
       <jump line="22" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="41" column="27" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" />
       <jump line="42" column="31" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="54" column="65" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMgPSBoZWFkZXJzCg==</text>
       </register>
       <register name="-" type="4">
         <text>parser.full_cast(full_credits_page)</text>
@@ -765,7 +765,7 @@
         <text>&quot;http://api.douban.com/v2/movie/{}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMgPSBoZWFkZXJzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -783,25 +783,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJIb3N0IjogImFwaS5kb3ViYW4uY29tIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgRG91YmFuUGFyc2VyOgo=</text>
+        <text encoding="base64">ICAgICAgICAiVXNlci1BZ2VudCI6ICJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2OjU5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNTkuMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
+        <text encoding="base64">ICAgICAgICAiUmVmZXJlciI6ICJodHRwczovL3d3dy5yb3R0ZW50b21hdG9lcy5jb20vIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwCg==</text>
+        <text encoding="base64">ICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwKQo=</text>
+        <text encoding="base64">ICAgICAgICAiQWNjZXB0LUxhbmd1YWdlIjogImVuLVVTLGVuO3E9MC41IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb3ViYW4uZmV0Y2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAiQWNjZXB0LUVuY29kaW5nIjogImd6aXAsIGRlZmxhdGUsIGJyIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -857,8 +857,8 @@
         <entry>1,15s/self.//g</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
