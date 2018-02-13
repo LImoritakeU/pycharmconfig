@@ -103,11 +103,11 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1518490457097">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1518492382409">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="/code_fragment.cls" timestamp="1508320830493">
         <mark key="[" line="0" column="0" />
@@ -281,8 +281,8 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/parser.py" timestamp="1518420806985">
-        <mark key="[" line="0" column="13" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/parser.py" timestamp="1518491877957">
+        <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
@@ -345,18 +345,19 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1518495970485">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/project.clj" timestamp="1510208896940">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="51" />
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518490645644">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-      </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518495736839" />
       <file name="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" timestamp="1510557076902">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="27" column="6" />
@@ -765,7 +766,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>N</text>
@@ -777,7 +778,7 @@
         <text encoding="base64">ICAgICAgICBwcCA9IFByZXR0eVByaW50ZXIoaW5kZW50PTIpCiAgICAgICAgcHAucHByaW50KGpzb24uZHVtcHMocmVzdWx0LCBlbnN1cmVfYXNjaWk9RmFsc2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -795,25 +796,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vdmllcy5ydW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vdmllcyA9IE1vdmllQ3Jhd2xlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+        <text encoding="base64">ICAgIG1vdmllcy5ydW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWRiLmZldGNoKCkK</text>
+        <text encoding="base64">ICAgIG1vdmllcyA9IE1vdmllQ3Jhd2xlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWRiID0gSW1kYkNyYXdsZXIoa2V5d29yZFsxXSkK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrZXl3b3JkID0gc2VsZi5rZXl3b3JkCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWRiLmZldGNoKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW4oc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWRiID0gSW1kYkNyYXdsZXIoa2V5d29yZFsxXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
