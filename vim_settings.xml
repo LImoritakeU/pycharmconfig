@@ -345,11 +345,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1518506376188">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1518508506355">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/project.clj" timestamp="1510208896940">
         <mark key="[" line="5" column="51" />
