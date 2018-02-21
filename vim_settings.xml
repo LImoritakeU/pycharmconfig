@@ -61,12 +61,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519205962660">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="18" column="66" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="16" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519207816135">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="22" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
         <mark key="[" line="0" column="0" />
@@ -354,11 +354,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1518512714988">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="38" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1519207556565">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="24" />
       </file>
       <file name="/RTParser" timestamp="1518511558096">
         <mark key="[" line="0" column="0" />
@@ -783,7 +783,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB7CiAgICAgICAgICAgICJ5ZWFyIjogIiIsCiAgICAgICAgICAgICJyYXRpbmciOiAiIiwKICAgICAgICAgICAgImdyYWRlIjogIiIsCiAgICAgICAgICAgICJnZW5yZSI6ICIiLAogICAgICAgICAgICAiY2FzdCI6ICIiLAogICAgICAgICAgICAiZGVzYyI6ICIiLAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNlYXJjaF9pbmZvKQo=</text>
       </register>
       <register name="-" type="4">
         <text>self.url['id_page'].format(sub_url=search_info['url'])</text>
@@ -795,7 +795,7 @@
         <text encoding="base64">ICAgICAgICAiaWRfcGFnZSI6ICJodHRwczovL3d3dy5yb3R0ZW50b21hdG9lcy5jb217c3ViX3VybH0iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB7CiAgICAgICAgICAgICJ5ZWFyIjogIiIsCiAgICAgICAgICAgICJyYXRpbmciOiAiIiwKICAgICAgICAgICAgImdyYWRlIjogIiIsCiAgICAgICAgICAgICJnZW5yZSI6ICIiLAogICAgICAgICAgICAiY2FzdCI6ICIiLAogICAgICAgICAgICAiZGVzYyI6ICIiLAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNlYXJjaF9pbmZvKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -810,34 +810,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vdmllX3BhZ2UgPSBtb3ZpZV9wYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gci50ZXh0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtb3ZpZV9wYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiaWRfcGFnZSI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByLnN0YXR1c19jb2RlID09IDIwMDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuaGVhZGVyIGltcG9ydCBnZW5faGVhZGVycwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vdmllX3BhZ2UgPSBOb25lCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>custom_header = {
-        &quot;Host&quot;: &quot;www.rottentomatoes.com&quot;,
-        &quot;Referer&quot;: &quot;https://www.rottentomatoes.com/&quot;,
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlYXJjaF9wYWdlID0gTm9uZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>url = {
-    &quot;search_page&quot;: &quot;https://www.rottentomatoes.com/search/?search={keyword}&quot;,
-    &quot;id_page&quot;: &quot;https://www.rottentomatoes.com{sub_url}&quot;,
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlYXJjaF9wYWdlID0gc2VhcmNoX3BhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIgPSBSVFBhcnNlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
