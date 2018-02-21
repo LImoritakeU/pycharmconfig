@@ -61,12 +61,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519186189357">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
-        <mark key="^" line="36" column="7" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519188259776">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="59" column="3" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
         <mark key="[" line="0" column="0" />
@@ -680,19 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="89" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
@@ -767,8 +754,6 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
@@ -777,25 +762,40 @@
       <jump line="34" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="30" column="16" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfaW5mbykK</text>
+        <text encoding="base64">ZnJvbSBzcmMuaGVhZGVyIGltcG9ydCBnZW5faGVhZGVycwo=</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>self.url['id_page'].format(sub_url=search_info['url'])</text>
       </register>
       <register name="/" type="4">
         <text>_get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFsnaW1kYiddID0gY3JlYXRlKCJpbWRiIiwgbW92aWVbMF0pLmZldGNoKCkK</text>
+        <text encoding="base64">dXJsID0gewogICAgInNlYXJjaF9wYWdlIjogImh0dHBzOi8vd3d3LnJvdHRlbnRvbWF0b2VzLmNvbS9zZWFyY2gvP3NlYXJjaD17a2V5d29yZH0iLAogICAgImlkX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29te3N1Yl91cmx9IiwKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfaW5mbykK</text>
+        <text encoding="base64">ZnJvbSBzcmMuaGVhZGVyIGltcG9ydCBnZW5faGVhZGVycwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -809,29 +809,35 @@
           <key char="65535" code="8" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX2pzb25faW5fdGV4dCh0ZXh0KToK</text>
+      <register name="2" type="4">
+        <text>custom_header = {
+        &quot;Host&quot;: &quot;www.rottentomatoes.com&quot;,
+        &quot;Referer&quot;: &quot;https://www.rottentomatoes.com/&quot;,
+    }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>url = {
+    &quot;search_page&quot;: &quot;https://www.rottentomatoes.com/search/?search={keyword}&quot;,
+    &quot;id_page&quot;: &quot;https://www.rottentomatoes.com{sub_url}&quot;,
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmUKICAgICAgICBpbXBvcnQganNvbgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZXIgPSBSVFBhcnNlcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyLnN0YXR1c19jb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfcGFnZSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAiaWRfcGFnZSI6ICJodHRwczovL3d3dy5yb3R0ZW50b21hdG9lcy5jb217c3ViX3VybH0iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHsKICAgICAgICAic2VhcmNoX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3NlYXJjaC8/c2VhcmNoPXtrZXl3b3JkfSIsCiAgICAgICAgImlkX3BhZ2UiOiAiIiwKICAgIH0KCiAgICBjdXN0b21faGVhZGVyID0gZ2VuX2hlYWRlcnMoCiAgICAgICAgewogICAgICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwKICAgICAgICAgICAgIlJlZmVyZXIiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tLyIsCiAgICAgICAgfQogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAic2VhcmNoX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3NlYXJjaC8/c2VhcmNoPXtrZXl3b3JkfSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -886,8 +892,8 @@
         <entry encoding="base64">JzwsJz4+Pg==</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>&quot;w</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
