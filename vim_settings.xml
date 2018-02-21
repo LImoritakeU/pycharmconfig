@@ -33,6 +33,9 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="/custom_headers[type]" timestamp="1518511558085">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/streamparse/apache_flask/app.py" timestamp="1511951822251">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="50" />
@@ -58,12 +61,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1518404517412">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="16" column="3" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519180324097">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="47" column="27" />
+        <mark key="^" line="47" column="27" />
+        <mark key="." line="47" column="27" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
         <mark key="[" line="0" column="0" />
@@ -71,12 +74,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518510483264">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="48" column="7" />
-        <mark key="^" line="48" column="7" />
-        <mark key="." line="48" column="7" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" timestamp="1518512757788">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/storm-web.py" timestamp="1510028590323">
         <mark key="[" line="6" column="60" />
@@ -103,11 +106,11 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1518509229346">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="20" column="11" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1518512898472">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="67" column="32" />
+        <mark key="." line="67" column="32" />
+        <mark key="^" line="67" column="32" />
       </file>
       <file name="/code_fragment.cls" timestamp="1508320830493">
         <mark key="[" line="0" column="0" />
@@ -137,6 +140,9 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
+      <file name="/" timestamp="1519179359218">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/crawler.py" timestamp="1517886353696">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="11" />
@@ -161,14 +167,14 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1518506355828">
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1518512538739">
         <mark key="'" line="37" column="31" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="105" column="41" />
-        <mark key="^" line="105" column="39" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="103" column="8" />
+        <mark key="]" line="109" column="17" />
+        <mark key="^" line="109" column="17" />
+        <mark key="." line="109" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1518430202195">
+      <file name="/Python Console" timestamp="1519179221257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -320,6 +326,9 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
+      <file name="/urls[type]" timestamp="1518511558076">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/streamparse/filter/fabfile.py" timestamp="1510561254052">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="6" column="55" />
@@ -345,11 +354,14 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1518508691013">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1518512714988">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="38" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="/RTParser" timestamp="1518511558096">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm_server/project.clj" timestamp="1510208896940">
         <mark key="[" line="5" column="51" />
@@ -357,7 +369,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518495736839" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1518512587677">
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+        <mark key="." line="62" column="3" />
+      </file>
       <file name="$USER_HOME$/bluetech/web/storm-webstatistics/README.md" timestamp="1510557076902">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="27" column="6" />
@@ -600,7 +617,7 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="/code.py" timestamp="1517990179459">
+      <file name="/code.py" timestamp="1519179002555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="70" column="22" />
         <mark key="^" line="70" column="22" />
@@ -663,24 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
@@ -763,10 +762,28 @@
       <jump line="50" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmoive.py" />
+      <jump line="47" column="27" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhZ2UgPSBtb3ZpZV9wYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
         <text>N</text>
@@ -775,10 +792,10 @@
         <text>_get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltZGIgPSBJbWRiQ3Jhd2xlcigiVGhlIEdvZGZhdGhlciIsCiAgICAgICAgICAgICAgICAgICAgICAgdXJsPXVybCwKICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPWN1c3RvbV9oZWFkZXIsCiAgICAgICAgICAgICAgICAgICAgICAgcGFyc2VyPUltZGJQYXJzZXIpCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdFsnaW1kYiddID0gY3JlYXRlKCJpbWRiIiwgbW92aWVbMF0pLmZldGNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhZ2UgPSBtb3ZpZV9wYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -793,28 +810,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmtleXdvcmQgPSBrZXl3b3JkCg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHsKICAgICAgICAic2VhcmNoX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3NlYXJjaC8/c2VhcmNoPXtrZXl3b3JkfSIsCiAgICAgICAgImlkX3BhZ2UiOiAiIiwKICAgIH0KCiAgICBjdXN0b21faGVhZGVyID0gZ2VuX2hlYWRlcnMoCiAgICAgICAgewogICAgICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwKICAgICAgICAgICAgIlJlZmVyZXIiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tLyIsCiAgICAgICAgfQogICAgKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgb3B0aW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG91YmFuID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVvdXQ9dGltZW91dCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0ge30K</text>
+        <text encoding="base64">IyBvcHRpb25zCnVybCA9IHsKICAgICJzZWFyY2giOiAiaHR0cDovL3NlYXJjaC5hdG1vdmllcy5jb20udHcvc2VhcmNoLyIsCiAgICAibW92aWVfaW5mbyI6ICJodHRwOi8vYXBwMi5hdG1vdmllcy5jb20udHcvZmlsbS97X2lkfSIsCiAgICAiY2FzdF9pbmZvIjogImh0dHA6Ly9hcHAyLmF0bW92aWVzLmNvbS50dy9maWxtL2Nhc3Qve19pZH0iLAp9CgpjdXN0b21faGVhZGVyID0gewogICAgIkhvc3QiOiAic2VhcmNoLmF0bW92aWVzLmNvbS50dyIsCiAgICAiUmVmZXJlciI6ICJodHRwOi8vc2VhcmNoLmF0bW92aWVzLmNvbS50dy9zZWFyY2gvc2VhcmNoLmNmbSIsCiAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCIsCn0KcHJveHkgPSBOb25lCnRpbWVvdXQgPSAyMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIl9pZD17fSIuZm9ybWF0KF9pZCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -853,7 +870,6 @@
         <entry>_get</entry>
       </history-search>
       <history-cmd>
-        <entry>1,$s/Product(name=/Product(id=, name=/g</entry>
         <entry>1,$s/category:/category=/g</entry>
         <entry>1,$s/price:/price=/g</entry>
         <entry encoding="base64">PA==</entry>
@@ -868,10 +884,11 @@
         <entry>1,15s/self//g</entry>
         <entry>1,15s/self.//g</entry>
         <entry encoding="base64">JzwsJz4+Pg==</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>e</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry>W</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
