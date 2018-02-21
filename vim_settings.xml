@@ -61,12 +61,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519181225370">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="46" column="70" />
-        <mark key="]" line="46" column="58" />
-        <mark key="^" line="46" column="58" />
-        <mark key="." line="46" column="58" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519186189357">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
         <mark key="[" line="0" column="0" />
@@ -783,7 +783,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfaW5mbykK</text>
       </register>
       <register name="-" type="4">
         <text>N</text>
@@ -795,7 +795,7 @@
         <text encoding="base64">ICAgIHJlc3VsdFsnaW1kYiddID0gY3JlYXRlKCJpbWRiIiwgbW92aWVbMF0pLmZldGNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfaW5mbykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -810,28 +810,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyLnN0YXR1c19jb2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgX2pzb25faW5fdGV4dCh0ZXh0KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfcGFnZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmUKICAgICAgICBpbXBvcnQganNvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHsKICAgICAgICAic2VhcmNoX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3NlYXJjaC8/c2VhcmNoPXtrZXl3b3JkfSIsCiAgICAgICAgImlkX3BhZ2UiOiAiIiwKICAgIH0KCiAgICBjdXN0b21faGVhZGVyID0gZ2VuX2hlYWRlcnMoCiAgICAgICAgewogICAgICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwKICAgICAgICAgICAgIlJlZmVyZXIiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tLyIsCiAgICAgICAgfQogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfcGFnZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHsKICAgICAgICAic2VhcmNoX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3NlYXJjaC8/c2VhcmNoPXtrZXl3b3JkfSIsCiAgICAgICAgImlkX3BhZ2UiOiAiIiwKICAgIH0KCiAgICBjdXN0b21faGVhZGVyID0gZ2VuX2hlYWRlcnMoCiAgICAgICAgewogICAgICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwKICAgICAgICAgICAgIlJlZmVyZXIiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tLyIsCiAgICAgICAgfQogICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
