@@ -61,12 +61,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519180324097">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="47" column="27" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519181225370">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="46" column="70" />
+        <mark key="]" line="46" column="58" />
+        <mark key="^" line="46" column="58" />
+        <mark key="." line="46" column="58" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
         <mark key="[" line="0" column="0" />
@@ -783,7 +783,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyKQo=</text>
       </register>
       <register name="-" type="4">
         <text>N</text>
@@ -795,7 +795,7 @@
         <text encoding="base64">ICAgIHJlc3VsdFsnaW1kYiddID0gY3JlYXRlKCJpbWRiIiwgbW92aWVbMF0pLmZldGNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -810,25 +810,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHsKICAgICAgICAic2VhcmNoX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3NlYXJjaC8/c2VhcmNoPXtrZXl3b3JkfSIsCiAgICAgICAgImlkX3BhZ2UiOiAiIiwKICAgIH0KCiAgICBjdXN0b21faGVhZGVyID0gZ2VuX2hlYWRlcnMoCiAgICAgICAgewogICAgICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwKICAgICAgICAgICAgIlJlZmVyZXIiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tLyIsCiAgICAgICAgfQogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfcGFnZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgIHVybCA9IHsKICAgICAgICAic2VhcmNoX3BhZ2UiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3NlYXJjaC8/c2VhcmNoPXtrZXl3b3JkfSIsCiAgICAgICAgImlkX3BhZ2UiOiAiIiwKICAgIH0KCiAgICBjdXN0b21faGVhZGVyID0gZ2VuX2hlYWRlcnMoCiAgICAgICAgewogICAgICAgICAgICAiSG9zdCI6ICJ3d3cucm90dGVudG9tYXRvZXMuY29tIiwKICAgICAgICAgICAgIlJlZmVyZXIiOiAiaHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tLyIsCiAgICAgICAgfQogICAgKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVvdXQ9dGltZW91dCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBvcHRpb25zCnVybCA9IHsKICAgICJzZWFyY2giOiAiaHR0cDovL3NlYXJjaC5hdG1vdmllcy5jb20udHcvc2VhcmNoLyIsCiAgICAibW92aWVfaW5mbyI6ICJodHRwOi8vYXBwMi5hdG1vdmllcy5jb20udHcvZmlsbS97X2lkfSIsCiAgICAiY2FzdF9pbmZvIjogImh0dHA6Ly9hcHAyLmF0bW92aWVzLmNvbS50dy9maWxtL2Nhc3Qve19pZH0iLAp9CgpjdXN0b21faGVhZGVyID0gewogICAgIkhvc3QiOiAic2VhcmNoLmF0bW92aWVzLmNvbS50dyIsCiAgICAiUmVmZXJlciI6ICJodHRwOi8vc2VhcmNoLmF0bW92aWVzLmNvbS50dy9zZWFyY2gvc2VhcmNoLmNmbSIsCiAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCIsCn0KcHJveHkgPSBOb25lCnRpbWVvdXQgPSAyMAo=</text>
+        <text encoding="base64">ICAgICMgb3B0aW9ucwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -887,8 +887,8 @@
         <entry encoding="base64">JzwsJz48</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz4+</entry>
-        <entry>W</entry>
         <entry>&quot;w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
