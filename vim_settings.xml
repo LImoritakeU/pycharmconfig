@@ -54,12 +54,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519265529779">
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/rottentomato.py" timestamp="1519269935965">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="77" column="49" />
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/api_1_0/users.py" timestamp="1506677538553">
         <mark key="[" line="0" column="0" />
@@ -92,10 +92,10 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmovie.py" timestamp="1519268723070">
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="62" />
-        <mark key="." line="28" column="62" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmovie.py" timestamp="1519269700106">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="28" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1519266359353">
@@ -272,11 +272,10 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1519267238865">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="30" />
-        <mark key="." line="40" column="30" />
-        <mark key="^" line="40" column="30" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/crawlerbase.py" timestamp="1519269679407">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/RTParser" timestamp="1518511558096">
         <mark key="[" line="0" column="0" />
@@ -370,6 +369,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516878250972">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -584,7 +588,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdDb250ZW50LVR5cGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5yZXN1bHQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>self.url['id_page'].format(sub_url=search_info['url'])</text>
@@ -596,7 +600,7 @@
         <text encoding="base64">ICAgICAgICAiaWRfcGFnZSI6ICJodHRwczovL3d3dy5yb3R0ZW50b21hdG9lcy5jb217c3ViX3VybH0iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdDb250ZW50LVR5cGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5yZXN1bHQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -611,31 +615,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdSZWZlcmVyJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJlc3VsdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnNbJ0hvc3QnXSA9ICJhcHAyLmF0bW92aWVzLmNvbS50dyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cmxbJ21vdmllX2luZm8nXS5mb3JtYXQoX2lkPV9pZCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci5zdGF0dXNfY29kZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb3ZpZV9wYWdlOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdDb250ZW50LVR5cGUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibmV3X21vdmllX2luZm8iOiAiaHR0cDovL3d3dy5hdG1vdmllcy5jb20udHcvbW92aWUve19pZH0iLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdSZWZlcmVyJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfcGFnZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnNbJ0hvc3QnXSA9ICJhcHAyLmF0bW92aWVzLmNvbS50dyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtb3ZpZV9pbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cmxbJ21vdmllX2luZm8nXS5mb3JtYXQoX2lkPV9pZCksCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        &quot;Host&quot;: &quot;www.rottentomatoes.com&quot;,
-        &quot;Referer&quot;: &quot;https://www.rottentomatoes.com/&quot;,
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBtb3ZpZV9wYWdlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
