@@ -92,6 +92,12 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/atmovie.py" timestamp="1519268723070">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="62" />
+        <mark key="." line="28" column="62" />
+        <mark key="^" line="28" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/async_practice/crawler/src/movies.py" timestamp="1519266359353">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="67" />
@@ -133,10 +139,11 @@
         <mark key="^" line="64" column="103" />
         <mark key="." line="64" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1518510036914">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/header.py" timestamp="1519268830519">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+        <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/imdb.py" timestamp="1519265382265">
         <mark key="'" line="36" column="31" />
@@ -145,7 +152,7 @@
         <mark key="^" line="92" column="39" />
         <mark key="." line="92" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1519267693464">
+      <file name="/Python Console" timestamp="1519268948639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -280,11 +287,11 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1519265437772">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="59" column="41" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/workspace/async_practice/crawler/src/tasks/douban.py" timestamp="1519269045512">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
       </file>
       <file name="$USER_HOME$/bluetech/web/label-classification/util.py" timestamp="1508497312348">
         <mark key="[" line="15" column="25" />
@@ -363,11 +370,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/tdd/tests/units/test_blog.py" timestamp="1516878250972">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/bluetech/web/flask_web/chapter9/app/templates/_macros.html" timestamp="1507801809877">
         <mark key="[" line="23" column="100" />
@@ -582,7 +584,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cmxbJ21vdmllX2luZm8nXS5mb3JtYXQoX2lkPV9pZCksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdDb250ZW50LVR5cGUnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>self.url['id_page'].format(sub_url=search_info['url'])</text>
@@ -594,7 +596,7 @@
         <text encoding="base64">ICAgICAgICAiaWRfcGFnZSI6ICJodHRwczovL3d3dy5yb3R0ZW50b21hdG9lcy5jb217c3ViX3VybH0iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cmxbJ21vdmllX2luZm8nXS5mb3JtYXQoX2lkPV9pZCksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdDb250ZW50LVR5cGUnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -609,35 +611,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb3ZpZV9wYWdlOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnMucG9wKCdSZWZlcmVyJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAibmV3X21vdmllX2luZm8iOiAiaHR0cDovL3d3dy5hdG1vdmllcy5jb20udHcvbW92aWUve19pZH0iLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnNbJ0hvc3QnXSA9ICJhcHAyLmF0bW92aWVzLmNvbS50dyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfcGFnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cmxbJ21vdmllX2luZm8nXS5mb3JtYXQoX2lkPV9pZCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtb3ZpZV9pbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb3ZpZV9wYWdlOgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        &quot;Host&quot;: &quot;www.rottentomatoes.com&quot;,
-        &quot;Referer&quot;: &quot;https://www.rottentomatoes.com/&quot;,
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAibmV3X21vdmllX2luZm8iOiAiaHR0cDovL3d3dy5hdG1vdmllcy5jb20udHcvbW92aWUve19pZH0iLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        &quot;search_page&quot;: &quot;https://www.rottentomatoes.com/search/?search={keyword}&quot;,
-        &quot;id_page&quot;: &quot;https://www.rottentomatoes.com{sub_url}&quot;,
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWFyY2hfcGFnZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtb3ZpZV9pbmZvKQo=</text>
       </register>
       <register name="9" type="4">
         <text>{
-        &quot;Host&quot;: &quot;api.douban.com&quot;,
+        &quot;Host&quot;: &quot;www.rottentomatoes.com&quot;,
+        &quot;Referer&quot;: &quot;https://www.rottentomatoes.com/&quot;,
     }</text>
       </register>
       <register name=":" type="4">
