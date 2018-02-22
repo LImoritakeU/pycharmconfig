@@ -33,6 +33,12 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/tdd/tests/system/app_test.py" timestamp="1519278923668">
+        <mark key="[" line="12" column="56" />
+        <mark key="]" line="12" column="75" />
+        <mark key="^" line="12" column="75" />
+        <mark key="." line="12" column="75" />
+      </file>
       <file name="/custom_headers[type]" timestamp="1518511558085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -473,6 +479,12 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/tdd/app.py" timestamp="1519278207545">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/bluetech/web/storm-web/templates/product.html" timestamp="1510037572143">
         <mark key="[" line="11" column="0" />
