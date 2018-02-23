@@ -477,11 +477,11 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/tdd/app.py" timestamp="1519353816384">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/workspace/tdd/app.py" timestamp="1519359641171">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="/RTParser" timestamp="1518511558096">
         <mark key="[" line="0" column="0" />
@@ -600,7 +600,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZWRfaW5wdXQuYXNzZXJ0X2NhbGxlZF93aXRoKGFwcC5NRU5VX1BST01QVCkK</text>
+        <text encoding="base64">ICAgIHNlbGVjdGlvbiA9IGlucHV0KE1FTlVfUFJPTVBUKQo=</text>
       </register>
       <register name="-" type="4">
         <text>'Enter &quot;c&quot; to create a blog, &quot;l&quot; to list blogs, &quot;r&quot; to read one, &quot;p&quot; to create a post, or &quot;q&quot; to quit'</text>
@@ -609,7 +609,7 @@
         <text>_get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQXBwVGVzdChUZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9wcmludF9ibG9ncyhzZWxmKToKICAgICAgICBibG9nID0gQmxvZygnVGVzdCcsICdUZXN0IEF1dGhvcicpCiAgICAgICAgYXBwLmJsb2dzID0geydUZXN0JzogYmxvZ30KICAgICAgICB3aXRoIHBhdGNoKCJidWlsdGlucy5wcmludCIpIGFzIG1vY2tlZF9wcmludDoKICAgICAgICAgICAgYXBwLnByaW50X2Jsb2dzKCkKICAgICAgICAgICAgbW9ja2VkX3ByaW50LmFzc2VydF9jYWxsZWRfd2l0aCgnLSBUZXN0IGJ5IFRlc3QgQXV0aG9yICgwIHBvc3RzKScpCgogICAgQHBhdGNoKCdhcHAuZjEnKQogICAgZGVmIHRlc3RfZjIoc2VsZiwgbW9ja2VkX2YxKToKICAgICAgICB4ID0gMwogICAgICAgIG1vY2tlZF9mMS5yZXR1cm5fdmFsdWUgPSA1CgogICAgICAgIG51bSA9IGFwcC5mMih4KQoKICAgICAgICBtb2NrZWRfZjEuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoMykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG51bSwgMjApCg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdGlvbiA9IGlucHV0KE1FTlVfUFJPTVBUKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrZWRfaW5wdXQuYXNzZXJ0X2NhbGxlZF93aXRoKGFwcC5NRU5VX1BST01QVCkK</text>
